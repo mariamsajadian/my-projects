@@ -1,0 +1,123 @@
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://rdfs.org/ns/void#subset> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/creator> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/hydra/core#Collection> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/ns/hydra/core#itemsPerPage> "100"^^<http://www.w3.org/2001/XMLSchema#long> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/ns/hydra/core#search> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/creator#triplePattern> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/creator> <http://rdfs.org/ns/void#triples> "1010"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/hydra/core#Collection> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/hydra/core#PagedCollection> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/ns/hydra/core#firstPage> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/creator&page=1> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/ns/hydra/core#itemsPerPage> "100"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/ns/hydra/core#nextPage> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/creator&page=2> .
+
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/ns/hydra/core#totalItems> "1010"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/creator#subject> <http://www.w3.org/ns/hydra/core#property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/creator#subject> <http://www.w3.org/ns/hydra/core#variable> "subject" .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/creator#predicate> <http://www.w3.org/ns/hydra/core#property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/creator#predicate> <http://www.w3.org/ns/hydra/core#variable> "predicate" .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/creator#object> <http://www.w3.org/ns/hydra/core#property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/creator#object> <http://www.w3.org/ns/hydra/core#variable> "object" .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/creator#triplePattern> <http://www.w3.org/ns/hydra/core#mapping> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/creator#subject> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/creator#triplePattern> <http://www.w3.org/ns/hydra/core#mapping> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/creator#predicate> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/creator#triplePattern> <http://www.w3.org/ns/hydra/core#mapping> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/creator#object> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/creator#triplePattern> <http://www.w3.org/ns/hydra/core#template> "http://data.collectienederland.nl/fragments/mauritshuis{?subject,predicate,object}" .
+<http://data.collectienederland.nl/resource/document/mauritshuis/454> <http://purl.org/dc/elements/1.1/creator> "Jan de Baen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/353> <http://purl.org/dc/elements/1.1/creator> "Anoniem (Zuidelijke Nederlanden)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/705> <http://purl.org/dc/elements/1.1/creator> "Johannes Moreelse"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/709> <http://purl.org/dc/elements/1.1/creator> "Godefridus Schalcken"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/596> <http://purl.org/dc/elements/1.1/creator> "Willem Claesz Heda"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/613> <http://purl.org/dc/elements/1.1/creator> "Jan Davidsz de Heem"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/329> <http://purl.org/dc/elements/1.1/creator> "Antonio Francesco Peruzzini"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/658> <http://purl.org/dc/elements/1.1/creator> "Pieter Quast"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/336> <http://purl.org/dc/elements/1.1/creator> "Sassoferrato"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/695> <http://purl.org/dc/elements/1.1/creator> "Anoniem (Zuidelijke Nederlanden)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/699> <http://purl.org/dc/elements/1.1/creator> "Salomon van Ruysdael"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/426> <http://purl.org/dc/elements/1.1/creator> "Jan Anthonisz van Ravesteyn"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/278> <http://purl.org/dc/elements/1.1/creator> "Hans Holbein the Younger"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/433> <http://purl.org/dc/elements/1.1/creator> "Master of the Salomon triptych"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/302> <http://purl.org/dc/elements/1.1/creator> "Correggio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/281> <http://purl.org/dc/elements/1.1/creator> "Hans Rottenhammer"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/348> <http://purl.org/dc/elements/1.1/creator> "Joos van Cleve"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/402> <http://purl.org/dc/elements/1.1/creator> "Jan Vermeulen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/539> <http://purl.org/dc/elements/1.1/creator> "Pieter Frederik de la Croix"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/286> <http://purl.org/dc/elements/1.1/creator> "Johann Friedrich August Tischbein"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/718> <http://purl.org/dc/elements/1.1/creator> "Nicolaes Maes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/438> <http://purl.org/dc/elements/1.1/creator> "Jan Anthonisz van Ravesteyn"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/474> <http://purl.org/dc/elements/1.1/creator> "Christoffel Pierson"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/291> <http://purl.org/dc/elements/1.1/creator> "Herman van Swanevelt"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/656> <http://purl.org/dc/elements/1.1/creator> "Jean-Baptiste-Siméon Chardin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/675> <http://purl.org/dc/elements/1.1/creator> "Bernard Zwaerdecroon"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/670> <http://purl.org/dc/elements/1.1/creator> "Johannes Vermeer"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/561> <http://purl.org/dc/elements/1.1/creator> "Anoniem (Noordelijke Nederlanden)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/729> <http://purl.org/dc/elements/1.1/creator> "George van der Mijn"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/283> <http://purl.org/dc/elements/1.1/creator> "Jan Brueghel de Oude"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/283> <http://purl.org/dc/elements/1.1/creator> "Hans Rottenhammer"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/566> <http://purl.org/dc/elements/1.1/creator> "Jan van Goyen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/446> <http://purl.org/dc/elements/1.1/creator> "Gerard de Lairesse"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/580> <http://purl.org/dc/elements/1.1/creator> "Adriaen van Ostade"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/304> <http://purl.org/dc/elements/1.1/creator> "Nicolas Regnier"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/468> <http://purl.org/dc/elements/1.1/creator> "Maria van Oosterwyck"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/554> <http://purl.org/dc/elements/1.1/creator> "Guillaume du Bois"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/687> <http://purl.org/dc/elements/1.1/creator> "Jan Fijt"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/279> <http://purl.org/dc/elements/1.1/creator> "Hans Holbein the Younger"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/392> <http://purl.org/dc/elements/1.1/creator> "Pieter Codde"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/359> <http://purl.org/dc/elements/1.1/creator> "Domenico Antonio Vaccaro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/697> <http://purl.org/dc/elements/1.1/creator> "Abraham van Beyeren"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/678> <http://purl.org/dc/elements/1.1/creator> "Abraham van Beyeren"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/599> <http://purl.org/dc/elements/1.1/creator> "Jacob van Loo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/498> <http://purl.org/dc/elements/1.1/creator> "Abraham Ragueneau"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/609> <http://purl.org/dc/elements/1.1/creator> "Cornelis Troost"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/607> <http://purl.org/dc/elements/1.1/creator> "Adriaen Brouwer"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/277> <http://purl.org/dc/elements/1.1/creator> "Hans Holbein de Jonge"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/277> <http://purl.org/dc/elements/1.1/creator> "Hans Holbein the Younger"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/418> <http://purl.org/dc/elements/1.1/creator> "Jan Anthonisz van Ravesteyn"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/655> <http://purl.org/dc/elements/1.1/creator> "Paulus Moreelse"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/672> <http://purl.org/dc/elements/1.1/creator> "Christoffel van den Berghe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/659> <http://purl.org/dc/elements/1.1/creator> "Anthonie Verstralen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/354> <http://purl.org/dc/elements/1.1/creator> "Parmigianino"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/393> <http://purl.org/dc/elements/1.1/creator> "Pieter Lastman"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/541> <http://purl.org/dc/elements/1.1/creator> "Sybrand van Beest"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/414> <http://purl.org/dc/elements/1.1/creator> "Jan Anthonisz van Ravesteyn"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/694> <http://purl.org/dc/elements/1.1/creator> "Anoniem (Zuidelijke Nederlanden)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/694> <http://purl.org/dc/elements/1.1/creator> "Anonymous (Southern Netherlands)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/575> <http://purl.org/dc/elements/1.1/creator> "Jan Miense Molenaer"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/610> <http://purl.org/dc/elements/1.1/creator> "Rembrandt van Rijn"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/317> <http://purl.org/dc/elements/1.1/creator> "Gortzius Geldorp the Elder"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/320> <http://purl.org/dc/elements/1.1/creator> "Gaspard Dughet"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/537> <http://purl.org/dc/elements/1.1/creator> "Jan Olis"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/404> <http://purl.org/dc/elements/1.1/creator> "Elias Vonck"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/657> <http://purl.org/dc/elements/1.1/creator> "Michael Sweerts"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/507> <http://purl.org/dc/elements/1.1/creator> "Michiel Jansz van Mierevelt"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/714> <http://purl.org/dc/elements/1.1/creator> "Caspar Netscher"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/399> <http://purl.org/dc/elements/1.1/creator> "Balthasar van der Ast"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/448> <http://purl.org/dc/elements/1.1/creator> "Anonymous (Northern Netherlands)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/335> <http://purl.org/dc/elements/1.1/creator> "Antonio Zanchi"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/473> <http://purl.org/dc/elements/1.1/creator> "Emanuel de Witte"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/324> <http://purl.org/dc/elements/1.1/creator> "Parmigianino"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/349> <http://purl.org/dc/elements/1.1/creator> "Anonymous (Italy)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/567> <http://purl.org/dc/elements/1.1/creator> "Jan van de Cappelle"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/576> <http://purl.org/dc/elements/1.1/creator> "Jan Miense Molenaer"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/447> <http://purl.org/dc/elements/1.1/creator> "Pieter Jansz Quast"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/282> <http://purl.org/dc/elements/1.1/creator> "Hendrik van Balen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/282> <http://purl.org/dc/elements/1.1/creator> "Jan Brueghel de Jonge"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/548> <http://purl.org/dc/elements/1.1/creator> "Abraham van Beyeren"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/540> <http://purl.org/dc/elements/1.1/creator> "Anonymous (Northern Netherlands)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/717> <http://purl.org/dc/elements/1.1/creator> "Nicolaes Maes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/409> <http://purl.org/dc/elements/1.1/creator> "Pieter Symonsz Potter"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/276> <http://purl.org/dc/elements/1.1/creator> "Hans Holbein de Jonge"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/287> <http://purl.org/dc/elements/1.1/creator> "Piero di Cosimo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/573> <http://purl.org/dc/elements/1.1/creator> "Jan Miense Molenaer"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/605> <http://purl.org/dc/elements/1.1/creator> "Carel Fabritius"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/584> <http://purl.org/dc/elements/1.1/creator> "Rembrandt van Rijn"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/439> <http://purl.org/dc/elements/1.1/creator> "Jan Anthonisz van Ravesteyn"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/311> <http://purl.org/dc/elements/1.1/creator> "Paolo Farinato"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/308> <http://purl.org/dc/elements/1.1/creator> "Pietro Bellotti"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/965> <http://purl.org/dc/elements/1.1/creator> "Joachim Beuckelaer"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1100> <http://purl.org/dc/elements/1.1/creator> "Jan van Goyen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1104> <http://purl.org/dc/elements/1.1/creator> "Simon van den Berg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/733> <http://purl.org/dc/elements/1.1/creator> "Jacob de Wit"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1136> <http://purl.org/dc/elements/1.1/creator> "Giovanni Antonio Pellegrini"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/748> <http://purl.org/dc/elements/1.1/creator> "Michiel van Musscher"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1055> <http://purl.org/dc/elements/1.1/creator> "Antoon François Heijligers"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/864> <http://purl.org/dc/elements/1.1/creator> "Isack van Ostade"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1096> <http://purl.org/dc/elements/1.1/creator> "Pieter van Santvoort"^^<http://www.w3.org/2001/XMLSchema#string> .

@@ -1,0 +1,123 @@
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://rdfs.org/ns/void#subset> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/title> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/hydra/core#Collection> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/ns/hydra/core#itemsPerPage> "100"^^<http://www.w3.org/2001/XMLSchema#long> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/ns/hydra/core#search> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/title#triplePattern> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/title> <http://rdfs.org/ns/void#triples> "1713"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/hydra/core#Collection> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/hydra/core#PagedCollection> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/title> <http://www.w3.org/ns/hydra/core#firstPage> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/title&page=1> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/title> <http://www.w3.org/ns/hydra/core#itemsPerPage> "100"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/title> <http://www.w3.org/ns/hydra/core#nextPage> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/title&page=2> .
+
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/title> <http://www.w3.org/ns/hydra/core#totalItems> "1713"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/title#subject> <http://www.w3.org/ns/hydra/core#property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/title#subject> <http://www.w3.org/ns/hydra/core#variable> "subject" .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/title#predicate> <http://www.w3.org/ns/hydra/core#property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/title#predicate> <http://www.w3.org/ns/hydra/core#variable> "predicate" .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/title#object> <http://www.w3.org/ns/hydra/core#property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/title#object> <http://www.w3.org/ns/hydra/core#variable> "object" .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/title#triplePattern> <http://www.w3.org/ns/hydra/core#mapping> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/title#subject> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/title#triplePattern> <http://www.w3.org/ns/hydra/core#mapping> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/title#predicate> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/title#triplePattern> <http://www.w3.org/ns/hydra/core#mapping> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/title#object> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/elements/1.1/title#triplePattern> <http://www.w3.org/ns/hydra/core#template> "http://data.collectienederland.nl/fragments/mauritshuis{?subject,predicate,object}" .
+<http://data.collectienederland.nl/resource/document/mauritshuis/598> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/463> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/658> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/353> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/546> <http://purl.org/dc/elements/1.1/title> "De prinsen van Oranje met familieleden te paard, uitrijdend vanaf het Buitenhof, Den Haag"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/596> <http://purl.org/dc/elements/1.1/title> "Stilleven met roemer en horloge"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/731> <http://purl.org/dc/elements/1.1/title> "Apollo omringd door de negen muzen"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/323> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/615> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/456> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/598> <http://purl.org/dc/elements/1.1/title> "De lachende man"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/422> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/695> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/415> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/426> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/426> <http://purl.org/dc/elements/1.1/title> "Portret van een officier"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/302> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/302> <http://purl.org/dc/elements/1.1/title> "Christus op de Olijfberg"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/281> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/437> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/348> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/531> <http://purl.org/dc/elements/1.1/title> "Stilleven met bijbel"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/343> <http://purl.org/dc/elements/1.1/title> "Venus met orgelspeler en hond"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/662> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/664> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/402> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/538> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/387> <http://purl.org/dc/elements/1.1/title> "Portret van een dame"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/286> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/718> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/408> <http://purl.org/dc/elements/1.1/title> "Een staande officier"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/288> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/288> <http://purl.org/dc/elements/1.1/title> "Portret van Giuliano da Sangallo (1445-1516), zoon van Francesco Giamberti"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/569> <http://purl.org/dc/elements/1.1/title> "Portret van een vrouw"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/572> <http://purl.org/dc/elements/1.1/title> "De vijf zintuigen: Het gevoel"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/438> <http://purl.org/dc/elements/1.1/title> "Portret van een officier, vermoedelijk Walraven IV van Brederode (1596/97-1620)"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/626> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/297> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/299> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/359> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/356> <http://purl.org/dc/elements/1.1/title> "Simson en Delila"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/395> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/283> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/294> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/446> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/580> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/580> <http://purl.org/dc/elements/1.1/title> "Boerenfeest"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/623> <http://purl.org/dc/elements/1.1/title> "Lezend meisje"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/623> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/340> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/496> <http://purl.org/dc/elements/1.1/title> "Portret van Cornelis Haga (1578-1654)"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/687> <http://purl.org/dc/elements/1.1/title> "Stilleven met dode vogels, een kooi en een net"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/685> <http://purl.org/dc/elements/1.1/title> "Twee Afrikaanse mannen"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/277> <http://purl.org/dc/elements/1.1/title> "Portret van een edelman met havik"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/277> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/418> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/429> <http://purl.org/dc/elements/1.1/title> "Postuum portret van Maria I Stuart (1631- 1660) met een bediende"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/574> <http://purl.org/dc/elements/1.1/title> "De vijf zintuigen: Het gehoor"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/430> <http://purl.org/dc/elements/1.1/title> "Portret van Frederik Hendrik (1584-1647)"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/307> <http://purl.org/dc/elements/1.1/title> "'Capriccio' met ruïnes"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/291> <http://purl.org/dc/elements/1.1/title> "Bosrijk landschap met herders"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/291> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/310> <http://purl.org/dc/elements/1.1/title> "Zegenende Christus"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/299> <http://purl.org/dc/elements/1.1/title> "Landschap met jagers"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/710> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/678> <http://purl.org/dc/elements/1.1/title> "Visstilleven"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/729> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/460> <http://purl.org/dc/elements/1.1/title> "Portret van Aletta Hanemans (1606-1653)"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/460> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/424> <http://purl.org/dc/elements/1.1/title> "Portret van een officier"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/566> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/457> <http://purl.org/dc/elements/1.1/title> "Portret van een officier"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/457> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/340> <http://purl.org/dc/elements/1.1/title> "De annunciatie"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/599> <http://purl.org/dc/elements/1.1/title> "Portret van een dame"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/468> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/498> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/609> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/607> <http://purl.org/dc/elements/1.1/title> "Een dikke man"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/558> <http://purl.org/dc/elements/1.1/title> "Strandgezicht"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/685> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/425> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/423> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/275> <http://purl.org/dc/elements/1.1/title> "Portret van een Zuid-Duitse vrouw"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/618> <http://purl.org/dc/elements/1.1/title> "Portret van een man"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/655> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/659> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/410> <http://purl.org/dc/elements/1.1/title> "Soldaten en andere figuren tussen de ruïnes van een kasteel, met een zelfportret van de kunstenaar in de voorgrond"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/354> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/358> <http://purl.org/dc/elements/1.1/title> "Portret van keizer Karel V (1500-1558)"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/711> <http://purl.org/dc/elements/1.1/title> "Portret van Maria de Witt (1620-1681)"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/563> <http://purl.org/dc/elements/1.1/title> "Zonsondergang op zee"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/397> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/541> <http://purl.org/dc/elements/1.1/title> "Varkensmarkt"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/690> <http://purl.org/dc/elements/1.1/title> "Een jachtstoet bij de Hofvijver in Den Haag, gezien vanaf het Buitenhof"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/690> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/694> <http://purl.org/dc/elements/1.1/title> "Vanitas-stilleven"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/575> <http://purl.org/dc/elements/1.1/title> "De vijf zintuigen: De reuk"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/708> <http://purl.org/dc/elements/1.1/title> "Portret van Diederick Hoeufft (1648-1719)"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/440> <http://purl.org/dc/elements/1.1/title> "Boerenherberg"@nl .

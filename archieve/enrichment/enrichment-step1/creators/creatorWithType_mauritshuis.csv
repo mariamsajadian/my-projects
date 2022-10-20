@@ -1,0 +1,886 @@
+uri,creators,type
+http://data.collectienederland.nl/resource/document/mauritshuis/1,'Jacob Cornelisz van Oostsanen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/100,'Michiel Jansz van Mierevelt',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/101,'Michiel Jansz van Mierevelt',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/226,'Michiel Jansz van Mierevelt',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/507,'Michiel Jansz van Mierevelt',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/749,'Michiel Jansz van Mierevelt',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/750,'Michiel Jansz van Mierevelt',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/96,'Michiel Jansz van Mierevelt',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/97,'Michiel Jansz van Mierevelt',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/98,'Michiel Jansz van Mierevelt',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/99,'Michiel Jansz van Mierevelt',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1031,'Anoniem (Zuidelijke Nederlanden)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/227,'Anoniem (Zuidelijke Nederlanden)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/230,'Anoniem (Zuidelijke Nederlanden)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/235,'Anoniem (Zuidelijke Nederlanden)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/244,'Anoniem (Zuidelijke Nederlanden)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/353,'Anoniem (Zuidelijke Nederlanden)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/694,'Anoniem (Zuidelijke Nederlanden)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/695,'Anoniem (Zuidelijke Nederlanden)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1031,'Anonymous (Southern Netherlands)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/227,'Anonymous (Southern Netherlands)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/230,'Anonymous (Southern Netherlands)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/235,'Anonymous (Southern Netherlands)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/244,'Anonymous (Southern Netherlands)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/353,'Anonymous (Southern Netherlands)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/694,'Anonymous (Southern Netherlands)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/695,'Anonymous (Southern Netherlands)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1032,'Frans Hals',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/459,'Frans Hals',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/460,'Frans Hals',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/618,'Frans Hals',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/928,'Frans Hals',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1033,'Hercules Seghers',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1034,'Cornelis Troost',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1068,'Cornelis Troost',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/179,'Cornelis Troost',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/180,'Cornelis Troost',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/181,'Cornelis Troost',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/182,'Cornelis Troost',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/183,'Cornelis Troost',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/184,'Cornelis Troost',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/185,'Cornelis Troost',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/186,'Cornelis Troost',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/187,'Cornelis Troost',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/188,'Cornelis Troost',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/189,'Cornelis Troost',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/190,'Cornelis Troost',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/191,'Cornelis Troost',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/192,'Cornelis Troost',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/193,'Cornelis Troost',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/194,'Cornelis Troost',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/411,'Cornelis Troost',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/609,'Cornelis Troost',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/1039,'Jan Hackaert',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/104,'Gerrit van Honthorst',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1107,'Gerrit van Honthorst',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/428,'Gerrit van Honthorst',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/430,'Gerrit van Honthorst',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/63,'Gerrit van Honthorst',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/64,'Gerrit van Honthorst',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/65,'Gerrit van Honthorst',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1042,'Mattheus Terwesten',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1043,'Hans Bol',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1044,'Salomon van Ruysdael',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1115,'Salomon van Ruysdael',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1117,'Salomon van Ruysdael',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1128,'Salomon van Ruysdael',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/699,'Salomon van Ruysdael',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/738,'Salomon van Ruysdael',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/941,'Salomon van Ruysdael',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1045,'Pieter van Anraadt',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1046,'Abraham Bloemaert',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/16,'Abraham Bloemaert',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/17,'Abraham Bloemaert',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1047,'Arent de Gelder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/40,'Arent de Gelder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/737,'Arent de Gelder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/757,'Arent de Gelder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1048,'Gerbrand van den Eeckhout',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/105,'Anoniem (Noordelijke Nederlanden)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/229,'Anoniem (Noordelijke Nederlanden)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/448,'Anoniem (Noordelijke Nederlanden)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/449,'Anoniem (Noordelijke Nederlanden)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/496,'Anoniem (Noordelijke Nederlanden)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/540,'Anoniem (Noordelijke Nederlanden)',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/547,'Anoniem (Noordelijke Nederlanden)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/561,'Anoniem (Noordelijke Nederlanden)',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/603,'Anoniem (Noordelijke Nederlanden)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/654,'Anoniem (Noordelijke Nederlanden)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/701,'Anoniem (Noordelijke Nederlanden)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/710,'Anoniem (Noordelijke Nederlanden)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/711,'Anoniem (Noordelijke Nederlanden)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/831,'Anoniem (Noordelijke Nederlanden)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/105,'Anonymous (Northern Netherlands)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/229,'Anonymous (Northern Netherlands)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/448,'Anonymous (Northern Netherlands)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/449,'Anonymous (Northern Netherlands)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/496,'Anonymous (Northern Netherlands)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/540,'Anonymous (Northern Netherlands)',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/547,'Anonymous (Northern Netherlands)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/561,'Anonymous (Northern Netherlands)',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/603,'Anonymous (Northern Netherlands)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/654,'Anonymous (Northern Netherlands)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/701,'Anonymous (Northern Netherlands)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/710,'Anonymous (Northern Netherlands)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/711,'Anonymous (Northern Netherlands)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/831,'Anonymous (Northern Netherlands)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1050,'Gerard ter Borch',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1133,'Gerard ter Borch',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/176,'Gerard ter Borch',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/177,'Gerard ter Borch',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/744,'Gerard ter Borch',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/797,'Gerard ter Borch',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/883,'Gerard ter Borch',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1055,'Antoon François Heijligers',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1056,'Abraham van Beyeren',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/401,'Abraham van Beyeren',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/548,'Abraham van Beyeren',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/665,'Abraham van Beyeren',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/678,'Abraham van Beyeren',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/697,'Abraham van Beyeren',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1057,'Jacob Adriaensz Backer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/543,'Jacob Adriaensz Backer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/747,'Jacob Adriaensz Backer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/826,'Jacob Adriaensz Backer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1058,'Jan Baptist Weenix',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/901,'Jan Baptist Weenix',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/940,'Jan Baptist Weenix',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1058,'Nicolaes Pietersz Berchem',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1091,'Nicolaes Pietersz Berchem',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/11,'Nicolaes Pietersz Berchem',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/12,'Nicolaes Pietersz Berchem',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1220,'Nicolaes Pietersz Berchem',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1221,'Nicolaes Pietersz Berchem',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1222,'Nicolaes Pietersz Berchem',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/13,'Nicolaes Pietersz Berchem',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/14,'Nicolaes Pietersz Berchem',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1059,'Moyses van Wtenbrouck',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/106,'Frans van Mieris de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/107,'Frans van Mieris de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/108,'Frans van Mieris de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1163,'Frans van Mieris de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/819,'Frans van Mieris de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/860,'Frans van Mieris de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/106,'Frans van Mieris the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/107,'Frans van Mieris the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/108,'Frans van Mieris the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1163,'Frans van Mieris the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/819,'Frans van Mieris the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/860,'Frans van Mieris the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1060,'Dirck Hals',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1061,'Meindert Hobbema',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1105,'Meindert Hobbema',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/899,'Meindert Hobbema',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1062,'Jacob van Campen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1089,'Jacob van Campen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1065,'Cornelis van Poelenburch',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/134,'Cornelis van Poelenburch',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/79,'Cornelis van Poelenburch',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1066,'Balthasar van der Ast',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1073,'Balthasar van der Ast',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1108,'Balthasar van der Ast',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/399,'Balthasar van der Ast',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1067,'Jan Sanders van Hemessen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1070,'Augustus Wijnantz',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1071,'Willem van Mieris',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/109,'Willem van Mieris',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1072,'Jan Brueghel de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/233,'Jan Brueghel de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/234,'Jan Brueghel de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/253,'Jan Brueghel de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/283,'Jan Brueghel de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/285,'Jan Brueghel de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1072,'Jan Brueghel the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/233,'Jan Brueghel the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/234,'Jan Brueghel the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/253,'Jan Brueghel the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/283,'Jan Brueghel the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/285,'Jan Brueghel the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1075,'Hendrick Pot',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1076,'Hendrick Pot',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/475,'Hendrick Pot',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1077,'Jacob de Gheyn II',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1078,'Ger Lataster',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1079,'Ger Lataster',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1082,'Ger Lataster',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1083,'Ger Lataster',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1081,'Jan van Goyen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1100,'Jan van Goyen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/551,'Jan van Goyen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/566,'Jan van Goyen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/624,'Jan van Goyen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/759,'Jan van Goyen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/838,'Jan van Goyen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/979,'Jan van Goyen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1088,'Caesar van Everdingen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/39,'Caesar van Everdingen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1090,'Monogrammist RF',http://vocab.getty.edu/aat/300033936
+http://data.collectienederland.nl/resource/document/mauritshuis/1093,'Dirck van der Lisse',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1095,'Karel Dujardin',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/73,'Karel Dujardin',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/74,'Karel Dujardin',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/75,'Karel Dujardin',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/760,'Karel Dujardin',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1096,'Pieter van Santvoort',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1098,'Bartholomeus Breenbergh',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/932,'Bartholomeus Breenbergh',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1099,'Jan Davidsz de Heem',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/48,'Jan Davidsz de Heem',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/49,'Jan Davidsz de Heem',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/613,'Jan Davidsz de Heem',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/110,'Abraham Mignon',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/111,'Abraham Mignon',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/112,'Abraham Mignon',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1101,'Nicolaes Maes',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/717,'Nicolaes Maes',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/718,'Nicolaes Maes',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/90,'Nicolaes Maes',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1102,'Pieter van Laer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1103,'Abraham Govaerts',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/45,'Abraham Govaerts',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1104,'Simon van den Berg',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1106,'Adriaen Coorte',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1154,'Adriaen Coorte',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1109,'Pieter Pietersz',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/4,'Pieter Pietersz',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/914,'Pieter Pietersz',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1110,'Jan de Bray',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/808,'Jan de Bray',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1111,'Jan Steen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1167,'Jan Steen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/165,'Jan Steen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/166,'Jan Steen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/167,'Jan Steen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/168,'Jan Steen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/169,'Jan Steen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/170,'Jan Steen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/553,'Jan Steen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/664,'Jan Steen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/736,'Jan Steen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/742,'Jan Steen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/779,'Jan Steen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/818,'Jan Steen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/920,'Jan Steen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1113,'Jan van Huysum',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1114,'Jan van Huysum',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/70,'Jan van Huysum',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/71,'Jan van Huysum',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/72,'Jan van Huysum',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1116,'Govert Flinck',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/676,'Govert Flinck',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/696,'Govert Flinck',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/866,'Govert Flinck',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1118,'Rembrandt van Rijn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/145,'Rembrandt van Rijn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/146,'Rembrandt van Rijn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/147,'Rembrandt van Rijn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/148,'Rembrandt van Rijn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/149,'Rembrandt van Rijn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/556,'Rembrandt van Rijn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/560,'Rembrandt van Rijn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/565,'Rembrandt van Rijn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/579,'Rembrandt van Rijn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/584,'Rembrandt van Rijn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/598,'Rembrandt van Rijn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/610,'Rembrandt van Rijn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/621,'Rembrandt van Rijn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/626,'Rembrandt van Rijn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/685,'Rembrandt van Rijn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/707,'Rembrandt van Rijn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/828,'Rembrandt van Rijn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/840,'Rembrandt van Rijn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1119,'Martinus Josephus Geeraerts',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/245,'Martinus Josephus Geeraerts',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1121,'Michael Sweerts',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/657,'Michael Sweerts',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/886,'Michael Sweerts',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1122,'Adam Willaerts',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1123,'Herman Saftleven',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1124,'Roelant Roghman',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1125,'Pieter Claesz',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/943,'Pieter Claesz',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/947,'Pieter Claesz',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1126,'Willem Kalf',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/927,'Willem Kalf',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/971,'Willem Kalf',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/972,'Willem Kalf',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1127,'Frans Post',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/706,'Frans Post',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/915,'Frans Post',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1129,'Roelant Savery',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1213,'Roelant Savery',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/157,'Roelant Savery',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/113,'Jan Mijtens',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/114,'Jan Mijtens',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1131,'Peter Paul Rubens',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1132,'Peter Paul Rubens',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1150,'Peter Paul Rubens',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/234,'Peter Paul Rubens',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/246,'Peter Paul Rubens',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/247,'Peter Paul Rubens',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/250,'Peter Paul Rubens',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/251,'Peter Paul Rubens',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/252,'Peter Paul Rubens',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/253,'Peter Paul Rubens',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/254,'Peter Paul Rubens',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/255,'Peter Paul Rubens',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/837,'Peter Paul Rubens',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/926,'Peter Paul Rubens',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1135,'Giovanni Antonio Pellegrini',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1136,'Giovanni Antonio Pellegrini',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1137,'Giovanni Antonio Pellegrini',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1138,'Giovanni Antonio Pellegrini',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1139,'Giovanni Antonio Pellegrini',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1140,'Giovanni Antonio Pellegrini',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1141,'Giovanni Antonio Pellegrini',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1142,'Giovanni Antonio Pellegrini',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1143,'Giovanni Antonio Pellegrini',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1144,'Giovanni Antonio Pellegrini',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1145,'Giovanni Antonio Pellegrini',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1146,'Giovanni Antonio Pellegrini',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1147,'Giovanni Antonio Pellegrini',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1148,'Giovanni Antonio Pellegrini',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1149,'Giovanni Antonio Pellegrini',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/115,'Nicolaes Moeyaert',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/394,'Nicolaes Moeyaert',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/395,'Nicolaes Moeyaert',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1151,'Jacob van Ruisdael',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/153,'Jacob van Ruisdael',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/154,'Jacob van Ruisdael',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/155,'Jacob van Ruisdael',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/728,'Jacob van Ruisdael',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/802,'Jacob van Ruisdael',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/803,'Jacob van Ruisdael',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1155,'Jan van de Cappelle',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/567,'Jan van de Cappelle',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/820,'Jan van de Cappelle',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1156,'Cornelis Vroom',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1157,'Jacob van Geel',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1159,'Johannes Thopas',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/116,'Louis de Moni',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1160,'David Teniers de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1161,'David Teniers de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/260,'David Teniers de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/261,'David Teniers de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/848,'David Teniers de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1160,'David Teniers the Younger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1161,'David Teniers the Younger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/260,'David Teniers the Younger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/261,'David Teniers the Younger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/848,'David Teniers the Younger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1162,'Gijsbrecht Leytens',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1166,'Dirck de Bray',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1168,'Peter Neeffs de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/248,'Peter Neeffs de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1168,'Peter Neeffs the Younger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/248,'Peter Neeffs the Younger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/117,'Anthonis Mor van Dashorst',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/559,'Anthonis Mor van Dashorst',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/432,'Anoniem (Frankrijk)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/432,'Anonymous (France)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/118,'Paulus Moreelse',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/655,'Paulus Moreelse',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/897,'Anoniem (Duitsland)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/897,'Anonymous (Germany)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/119,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/120,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/139,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/140,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/141,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/142,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/143,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/144,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/414,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/415,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/416,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/417,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/418,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/419,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/420,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/421,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/422,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/423,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/424,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/425,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/426,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/438,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/439,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/455,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/456,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/457,'Jan Anthonisz van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1203,'Clara Peeters',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1204,'Paul Bril',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/121,'Frederik de Moucheron',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/121,'Johannes Lingelbach',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/86,'Johannes Lingelbach',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/87,'Johannes Lingelbach',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/88,'Johannes Lingelbach',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/89,'Johannes Lingelbach',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/951,'Johannes Lingelbach',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1210,'Jan ter Borch',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1212,'Ludger tom Ring de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1212,'Ludger tom Ring the Younger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1214,'Jacob van Hulsdonck',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1216,'Daniel Seghers',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/256,'Daniel Seghers',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/257,'Daniel Seghers',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1216,'Daniël Seghers',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/256,'Daniël Seghers',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/257,'Daniël Seghers',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1216,'Jan Cossiers',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1217,'Jean-Baptiste Perronneau',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/1218,'Willem Buytewech',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1219,'Pieter Lastman',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/393,'Pieter Lastman',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1223,'Simon Luttichuys',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1225,'Bartholomäus Bruyn de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/739,'Bartholomäus Bruyn de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/889,'Bartholomäus Bruyn de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1225,'Bartholomäus Bruyn the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/739,'Bartholomäus Bruyn the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/889,'Bartholomäus Bruyn the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/1227,'Adriaen van de Venne',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/202,'Adriaen van de Venne',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/124,'Pieter Nason',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/125,'Caspar Netscher',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/126,'Caspar Netscher',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/127,'Caspar Netscher',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/714,'Caspar Netscher',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/715,'Caspar Netscher',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/128,'Adriaen van Ostade',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/129,'Adriaen van Ostade',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/440,'Adriaen van Ostade',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/580,'Adriaen van Ostade',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/745,'Adriaen van Ostade',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/807,'Adriaen van Ostade',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/130,'Abraham de Pape',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/131,'Jan Symonsz Pynas',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/132,'Adam Pijnacker',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/133,'Egbert van der Poel',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/698,'Egbert van der Poel',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/135,'Johan van Haensbergen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/601,'Johan van Haensbergen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/720,'Johan van Haensbergen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/136,'Paulus Potter',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/137,'Paulus Potter',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/138,'Paulus Potter',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/342,'Alessandro Turchi',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/150,'Johannes Rosenhagen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/151,'Rachel Ruysch',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/156,'Jacob Savery de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/156,'Jacob Savery the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/158,'Godefridus Schalcken',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/159,'Godefridus Schalcken',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/160,'Godefridus Schalcken',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/161,'Godefridus Schalcken',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/162,'Godefridus Schalcken',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/708,'Godefridus Schalcken',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/709,'Godefridus Schalcken',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/171,'Hendrick van Steenwijck de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/171,'Hendrick van Steenwijck the Younger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/172,'Dirck Stoop',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/173,'Abraham Storck',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/174,'Abraham Storck',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/178,'Gerrit Toorenburgh',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/19,'Ferdinand Bol',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/530,'Ferdinand Bol',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/585,'Ferdinand Bol',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/795,'Ferdinand Bol',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/195,'Jacob Ochtervelt',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/196,'Jacob van der Ulft',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/197,'Adriaen van de Velde',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/198,'Adriaen van de Velde',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/199,'Esaias van de Velde',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/673,'Esaias van de Velde',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/2,'Willem van Aelst',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/3,'Willem van Aelst',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/20,'Jan Both',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/21,'Jan Both',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/200,'Willem van de Velde de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/201,'Willem van de Velde de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/563,'Willem van de Velde de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/200,'Willem van de Velde the Younger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/201,'Willem van de Velde the Younger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/563,'Willem van de Velde the Younger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/203,'Hendrick van Vliet',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/204,'Arie de Vois',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/206,'Jan Weenix',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/207,'Jan Weenix',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/642,'Jan Weenix',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/208,'Adriaen van der Werff',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/209,'Adriaen van der Werff',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/210,'Jan Westerbaen de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/211,'Jan Westerbaen de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/210,'Jan Westerbaen the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/211,'Jan Westerbaen the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/212,'Jan Wijnants',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/214,'Philips Wouwerman',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/215,'Philips Wouwerman',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/216,'Philips Wouwerman',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/217,'Philips Wouwerman',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/218,'Philips Wouwerman',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/219,'Philips Wouwerman',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/220,'Philips Wouwerman',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/221,'Philips Wouwerman',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/222,'Philips Wouwerman',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/22,'Cornelis Cornelisz van Haarlem',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/23,'Cornelis Cornelisz van Haarlem',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/918,'Cornelis Cornelisz van Haarlem',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/223,'Joachim Wtewael',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/225,'Adriaen Thomasz Key',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/228,'Heinrich Dittmers',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/232,'Anton Wilhelm Tischbein',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/233,'Hendrik van Balen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/282,'Hendrik van Balen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/236,'Jan Brueghel de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/282,'Jan Brueghel de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/236,'Jan Brueghel the Younger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/282,'Jan Brueghel the Younger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/237,'Philippe de Champaigne',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/238,'Gonzales Coques',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/239,'Anthony van Dyck',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/240,'Anthony van Dyck',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/242,'Anthony van Dyck',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/472,'Anthony van Dyck',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/24,'Abraham van Cuylenborch',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/241,'Adriaen Hanneman',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/429,'Adriaen Hanneman',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/693,'Adriaen Hanneman',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/244,'Frans Francken de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/244,'Frans Francken the Younger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/244,'Paul Vredeman de Vries',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/248,'Frans Francken III',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/249,'Maerten de Vos',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/25,'Aelbert Cuyp',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/821,'Aelbert Cuyp',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/822,'Aelbert Cuyp',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/829,'Aelbert Cuyp',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/963,'Aelbert Cuyp',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/256,'Thomas Willeboirts Bosschaert',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/258,'Frans Snijders',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/794,'Frans Snijders',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/259,'Jan Wildens',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/259,'Paul de Vos',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/26,'Bartholomeus van Bassen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/9,'Bartholomeus van Bassen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/262,'Gillis van Tilborgh',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/264,'Rogier van der Weyden',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/844,'Rogier van der Weyden',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/266,'Willem van Haecht',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/269,'Jacob Seisenegger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/270,'Jacob Seisenegger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/271,'Jacob Seisenegger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/27,'Philip van Dijk',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/28,'Philip van Dijk',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/29,'Philip van Dijk',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/30,'Philip van Dijk',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/272,'Friedrich Bury',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/273,'Jan Willemsz Lapp',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/274,'Jan Willemsz Lapp',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/84,'Jan Willemsz Lapp',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/275,'Hans Holbein de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/276,'Hans Holbein de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/277,'Hans Holbein de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/278,'Hans Holbein de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/279,'Hans Holbein de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/275,'Hans Holbein the Younger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/276,'Hans Holbein the Younger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/277,'Hans Holbein the Younger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/278,'Hans Holbein the Younger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/279,'Hans Holbein the Younger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/280,'Johann Heinrich Roos',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/281,'Hans Rottenhammer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/283,'Hans Rottenhammer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/284,'Hans Rottenhammer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/285,'Hans Rottenhammer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/286,'Johann Friedrich August Tischbein',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/464,'Johann Friedrich August Tischbein',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/287,'Piero di Cosimo',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/288,'Piero di Cosimo',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/289,'Andrea di Leone',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/290,'Anoniem (Italië)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/349,'Anoniem (Italië)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/811,'Anoniem (Italië)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/290,'Anonymous (Italy)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/349,'Anonymous (Italy)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/811,'Anonymous (Italy)',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/291,'Herman van Swanevelt',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/292,'Claude-Joseph Vernet',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/293,'Claude-Joseph Vernet',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/294,'Nicolas de Largillière',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/296,'Bartolomé Esteban Murillo',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/297,'Jacob van Oost de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/297,'Jacob van Oost the Younger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/298,'Juan Bautista Martínez del Mazo',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/299,'Ignacio de Iriarte',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/300,'Mateo Cerezo',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/302,'Correggio',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/303,'Alessandro Allori',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/304,'Nicolas Regnier',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/305,'Simone Pignoni',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/307,'Pietro Bellotti',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/308,'Pietro Bellotti',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/309,'Raffaello Vanni',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/31,'Simon van der Does',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/310,'Paris Bordone',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/311,'Paolo Farinato',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/313,'Luca Cambiaso',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/314,'Luca Cambiaso',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/316,'Marcantonio Franceschini',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/317,'Gortzius Geldorp de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/319,'Gortzius Geldorp de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/317,'Gortzius Geldorp the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/319,'Gortzius Geldorp the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/32,'Gerrit Dou',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/33,'Gerrit Dou',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/320,'Gaspard Dughet',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/321,'Luca Giordano',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/356,'Luca Giordano',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/323,'Lodovico Mazzolino',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/324,'Parmigianino',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/354,'Parmigianino',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/328,'Antonio Francesco Peruzzini',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/329,'Antonio Francesco Peruzzini',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/328,'Sebastiano Ricci',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/329,'Sebastiano Ricci',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/332,'Alessandro Magnasco',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/333,'Alessandro Magnasco',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/816,'Alessandro Magnasco',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/817,'Alessandro Magnasco',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/334,'Giovanni Battista Langetti',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/335,'Antonio Zanchi',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/336,'Sassoferrato',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/34,'Joost Cornelisz Droochsloot',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/35,'Joost Cornelisz Droochsloot',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/340,'Francesco Solimena',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/343,'Titiaan',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/358,'Titiaan',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/343,'Titian',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/358,'Titian',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/344,'Bonifazio Veronese',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/347,'Marcello Fogolino',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/348,'Joos van Cleve',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/895,'Joos van Cleve',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/357,'Raphael',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/359,'Domenico Antonio Vaccaro',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/36,'Salomon Koninck',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/37,'Martin Meytens de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/38,'Martin Meytens de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/37,'Martin Meytens the Youger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/38,'Martin Meytens the Youger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/387,'Johannes Anspach',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/391,'Abraham Begeyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/392,'Pieter Codde',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/445,'Pieter Codde',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/857,'Pieter Codde',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/396,'Abraham van den Tempel',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/397,'Abraham van den Tempel',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/398,'Domenico Feti',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/402,'Jan Vermeulen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/662,'Jan Vermeulen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/404,'Elias Vonck',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/405,'Gijsbert Gillisz d' Hondecoeter',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/627,'Gijsbert Gillisz d' Hondecoeter',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/406,'Johannes Vermeer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/670,'Johannes Vermeer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/92,'Johannes Vermeer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/408,'Willem Cornelisz Duyster',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/409,'Pieter Symonsz Potter',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/410,'Karel Slabbaert',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/751,'Karel Slabbaert',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/42,'Hendrick Goltzius',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/43,'Hendrick Goltzius',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/44,'Hendrick Goltzius',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/427,'Fransise de Goltz',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/433,'Master of the Salomon triptych',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/433,'Meester van het Salomon triptiek',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/437,'Salomon de Bray',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/440,'Cornelis Dusart',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/446,'Gerard de Lairesse',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/82,'Gerard de Lairesse',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/83,'Gerard de Lairesse',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/447,'Pieter Jansz Quast',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/658,'Pieter Jansz Quast',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/447,'Pieter Quast',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/658,'Pieter Quast',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/454,'Jan de Baen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/5,'Jan de Baen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/46,'Joris van der Haagen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/47,'Joris van der Haagen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/461,'Jacques-André-Joseph Aved',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/462,'Johann Georg Ziesenis',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/463,'Johann Georg Ziesenis',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/468,'Maria van Oosterwyck',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/469,'Thomas Wijck',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/470,'Jan Haeckaert',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/473,'Emanuel de Witte',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/824,'Emanuel de Witte',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/474,'Christoffel Pierson',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/498,'Abraham Ragueneau',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/50,'Cornelis de Heem',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/51,'Maerten van Heemskerck',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/52,'Maerten van Heemskerck',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/53,'Jan van der Heyden',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/531,'Jan van der Heyden',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/815,'Jan van der Heyden',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/868,'Jan van der Heyden',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/532,'Otto Marseus van Schrieck',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/533,'Jan van de Velde III',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/535,'Jacob Adriaensz Bellevois',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/537,'Jan Olis',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/538,'Cornelis Saftleven',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/539,'Pieter Frederik de la Croix',http://vocab.getty.edu/aat/300076922
+http://data.collectienederland.nl/resource/document/mauritshuis/54,'Bartholomeus van der Helst',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/568,'Bartholomeus van der Helst',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/569,'Bartholomeus van der Helst',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/541,'Sybrand van Beest',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/542,'David Vinckboons',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/546,'Pauwels van Hillegaert',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/549,'Pieter Mulier de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/549,'Pieter Mulier the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/55,'Willem de Heusch',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/56,'Willem de Heusch',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/554,'Guillaume du Bois',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/799,'Guillaume du Bois',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/558,'Simon de Vlieger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/562,'Quiringh van Brekelenkam',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/564,'Judith Leyster',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/57,'Gerard Houckgeest',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/58,'Gerard Houckgeest',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/572,'Jan Miense Molenaer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/573,'Jan Miense Molenaer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/574,'Jan Miense Molenaer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/575,'Jan Miense Molenaer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/576,'Jan Miense Molenaer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/59,'Melchior d' Hondecoeter',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/60,'Melchior d' Hondecoeter',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/61,'Melchior d' Hondecoeter',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/62,'Melchior d' Hondecoeter',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/968,'Melchior d' Hondecoeter',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/595,'Hans Memling',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/596,'Willem Claesz Heda',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/936,'Willem Claesz Heda',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/599,'Jacob van Loo',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/885,'Jacob van Loo',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/6,'Ludolf Bakhuysen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/8,'Ludolf Bakhuysen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/605,'Carel Fabritius',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/607,'Adriaen Brouwer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/847,'Adriaen Brouwer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/919,'Adriaen Brouwer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/608,'Jacob de Reyger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/611,'Pieter Verbeecq',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/615,'Anthonie Palamedesz',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/623,'Claes Hals',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/656,'Jean-Baptiste-Siméon Chardin',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/659,'Anthonie Verstralen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/66,'Samuel van Hoogstraten',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/669,'Hendrik Willem Schweickhardt',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/67,'Jan van Huchtenburgh',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/68,'Jan van Huchtenburgh',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/69,'Jan van Huchtenburgh',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/671,'Christoffel van den Berghe',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/672,'Christoffel van den Berghe',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/675,'Bernard Zwaerdecroon',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/679,'Ambrosius Bosschaert de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/679,'Ambrosius Bosschaert the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/681,'Hendrick ten Oever',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/682,'Aert van der Neer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/787,'Aert van der Neer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/912,'Aert van der Neer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/913,'Aert van der Neer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/686,'Constantijn Netscher',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/721,'Constantijn Netscher',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/687,'Jan Fijt',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/925,'Jan Fijt',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/688,'Cornelis Jonson van Ceulen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/689,'Thomas de Keyser',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/77,'Thomas de Keyser',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/78,'Thomas de Keyser',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/806,'Thomas de Keyser',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/690,'Gerrit Adriaensz Berckheyde',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/796,'Gerrit Adriaensz Berckheyde',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/702,'Jean Baptiste Morel',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/703,'Jean Baptiste Morel',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/705,'Johannes Moreelse',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/719,'Nicolaes van Ravesteyn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/723,'Gerrit Alberts',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/724,'Jan Vermeer van Haarlem',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/809,'Jan Vermeer van Haarlem',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/725,'Gerard David',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/843.a,'Gerard David',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/843.b,'Gerard David',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/729,'George van der Mijn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/730,'George van der Mijn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/731,'Jacob de Wit',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/732,'Jacob de Wit',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/733,'Jacob de Wit',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/734,'Jacob de Wit',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/735,'Jacob de Wit',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/746,'Job Adriaensz Berckheyde',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/748,'Michiel van Musscher',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/752,'Flemish painter',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/752,'Vlaamse schilder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/754,'Abraham van Calraet',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/755,'Pieter Soutman',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/762,'Dirk Bouts',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/764,'Hendrik Pothoven',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/765,'Pieter Post',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/766,'Pieter Post',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/970,'Pieter Post',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/767,'Giovanni Battista Moroni',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/770,'Jacob Sibrandi Mancadan',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/887,'Jacob Sibrandi Mancadan',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/776,'Louis-Jean-François Lagrenée',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/781,'Barend Cornelis Koekkoek',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/782,'Alexander Hugo Bakker Korff',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/783,'Jan Provoost',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/785,'Hendrick Avercamp',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/789,'Isack van Ostade',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/864,'Isack van Ostade',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/79,'Alexander Keirincx',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/790,'Master of Alkmaar',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/790,'Meester van Alkmaar',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/791,'Abraham van Dijck',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/798,'Abraham van Dijck',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/792,'Ozias Humphry',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/793,'Ozias Humphry',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/800,'Cornelis Symonsz van der Schalcke',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/801,'Hendrick Heerschop',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/81,'Leendert van der Cooghen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/810,'Edwaert Collier',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/813,'Tethart Philip Christian Haag',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/814,'Isaac van Kipshaven',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/825,'Bernhard Keil',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/827,'Wybrand Hendriks',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/830,'Jan Gossaert',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/841,'Jan Gossaert',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/832,'Michel Sittow',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/835,'Pieter de Hooch',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/836,'Pieter Aertsen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/842,'Quinten Massys',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/849,'Jacob Jordaens',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/937,'Jacob Jordaens',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/85,'Jan Lievens',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/854,'Master of Frankfurt',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/855,'Master of Frankfurt',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/854,'Meester van Frankfurt',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/855,'Meester van Frankfurt',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/856,'Cornelis de Man',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/91,'Cornelis de Man',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/861,'Louis-Gabriel Moreau de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/861,'Louis-Gabriel Moreau the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/862,'Eglon van der Neer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/865,'Jan Verkolje',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/870,'Nicolas-Bernard Lépicié',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/875,'François Bunel de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/875,'François Bunel the Younger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/888,'Pieter Saenredam',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/974,'Pieter Saenredam',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/890,'Lucas Cranach de Jonge',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/890,'Lucas Cranach the Younger',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/891,'Lucas Cranach de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/917,'Lucas Cranach de Oude',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/891,'Lucas Cranach the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/917,'Lucas Cranach the Elder',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/898,'Jacopo de' Barbari',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/921,'Jan Mostaert',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/923,'Jan Keynooghe',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/929,'François Ryckhals',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/93,'Gabriel Metsu',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/94,'Gabriel Metsu',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/95,'Gabriel Metsu',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/93,'Gabriël Metsu',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/94,'Gabriël Metsu',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/95,'Gabriël Metsu',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/946,'Bastiaan de Poorter',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/950,'Jan Asselijn',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/953,'Allart van Everdingen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/955,'Huygh Pietersz Voskuyl',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/957,'Albert Eckhout',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/965,'Joachim Beuckelaer',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/966,'Hendrick ter Brugghen',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/967,'Jan van Nickele',http://vocab.getty.edu/aat/300020756
+http://data.collectienederland.nl/resource/document/mauritshuis/969,'Jan Porcellis',http://vocab.getty.edu/aat/300020756

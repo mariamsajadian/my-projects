@@ -1,0 +1,123 @@
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://rdfs.org/ns/void#subset> <http://data.collectienederland.nl/fragments/mauritshuis?page=1> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/hydra/core#Collection> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/ns/hydra/core#itemsPerPage> "100"^^<http://www.w3.org/2001/XMLSchema#long> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/ns/hydra/core#search> <http://data.collectienederland.nl/fragments/mauritshuis?page=1#triplePattern> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=1> <http://rdfs.org/ns/void#triples> "39780"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/hydra/core#Collection> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/hydra/core#PagedCollection> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=1> <http://www.w3.org/ns/hydra/core#firstPage> <http://data.collectienederland.nl/fragments/mauritshuis?page=1> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=1> <http://www.w3.org/ns/hydra/core#itemsPerPage> "100"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=1> <http://www.w3.org/ns/hydra/core#nextPage> <http://data.collectienederland.nl/fragments/mauritshuis?page=2> .
+
+<http://data.collectienederland.nl/fragments/mauritshuis?page=1> <http://www.w3.org/ns/hydra/core#totalItems> "39780"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=1#subject> <http://www.w3.org/ns/hydra/core#property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=1#subject> <http://www.w3.org/ns/hydra/core#variable> "subject" .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=1#predicate> <http://www.w3.org/ns/hydra/core#property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=1#predicate> <http://www.w3.org/ns/hydra/core#variable> "predicate" .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=1#object> <http://www.w3.org/ns/hydra/core#property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=1#object> <http://www.w3.org/ns/hydra/core#variable> "object" .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=1#triplePattern> <http://www.w3.org/ns/hydra/core#mapping> <http://data.collectienederland.nl/fragments/mauritshuis?page=1#subject> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=1#triplePattern> <http://www.w3.org/ns/hydra/core#mapping> <http://data.collectienederland.nl/fragments/mauritshuis?page=1#predicate> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=1#triplePattern> <http://www.w3.org/ns/hydra/core#mapping> <http://data.collectienederland.nl/fragments/mauritshuis?page=1#object> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=1#triplePattern> <http://www.w3.org/ns/hydra/core#template> "http://data.collectienederland.nl/fragments/mauritshuis{?subject,predicate,object}" .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/422> <http://www.europeana.eu/schemas/edm/provider> "Rijksdienst voor het Cultureel Erfgoed"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://schemas.delving.eu/nave/terms/allowDeepZoom> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/422> <http://purl.org/dc/elements/1.1/identifier> "422"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/598> <http://www.europeana.eu/schemas/edm/provider> "Rijksdienst voor het Cultureel Erfgoed"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://schemas.delving.eu/nave/terms/technique> "oil"@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/598> <http://purl.org/dc/elements/1.1/creator> "Rembrandt van Rijn"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://schemas.delving.eu/nave/terms/featured> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schemas.delving.eu/nave/terms/DelvingResource> .
+_:b2 <http://schemas.delving.eu/nave/terms/allowDeepZoom> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/454> <http://www.europeana.eu/schemas/edm/aggregatedCHO> <http://data.collectienederland.nl/resource/document/mauritshuis/454> .
+_:b2 <http://schemas.delving.eu/nave/terms/allowSourceDownload> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europeana.eu/schemas/edm/Agent> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/463> <http://purl.org/dc/elements/1.1/description> "Deze lezende vrouw is de piepjonge Wilhelmina van Pruisen. Ze was amper 16 jaar oud toen ze werd uitgehuwelijkt aan prins Willem V, de stadhouder van Holland. Kort na hun huwelijk liet het paar zich enkele malen portretteren door de Deense schilder Ziesenis. De bruid was het nichtje van de Pruisische koning Frederik de Grote. Ze bleek een stuk daadkrachtiger dan haar man."@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/463> <http://purl.org/dc/terms/extent> "height, hoogte 140 cm, cm"@nl-nl .
+_:b1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schemas.delving.eu/nave/terms/DelvingResource> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/598> <http://purl.org/dc/elements/1.1/type> "schilderij"@nl .
+_:b1 <http://schemas.delving.eu/nave/terms/featured> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://schemas.delving.eu/nave/terms/rijksCollection> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://schemas.delving.eu/nave/terms/technique> "olieverf"@nl .
+<urn:mauritshuis/0463> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europeana.eu/schemas/edm/WebResource> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/422> <http://purl.org/dc/elements/1.1/creator> "Jan Anthonisz van Ravesteyn"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/422> <http://purl.org/dc/elements/1.1/date> "1612"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.openarchives.org/ore/terms/Aggregation> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/422> <http://www.europeana.eu/schemas/edm/isRelatedTo> "https://collectienederland.nl/page/aggregation/mauritshuis/415"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/302> <http://www.europeana.eu/schemas/edm/dataProvider> "Mauritshuis"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/433> <http://www.europeana.eu/schemas/edm/dataProvider> "Mauritshuis"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/433> <http://www.europeana.eu/schemas/edm/provider> "Rijksdienst voor het Cultureel Erfgoed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/422> <http://www.europeana.eu/schemas/edm/isRelatedTo> "https://collectienederland.nl/page/aggregation/mauritshuis/426"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b4 <http://schemas.delving.eu/nave/terms/public> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://schemas.delving.eu/nave/terms/technique> "oil"@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/422> <http://www.europeana.eu/schemas/edm/isRelatedTo> "https://collectienederland.nl/page/aggregation/mauritshuis/414"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/302> <http://purl.org/dc/terms/extent> "height, hoogte 40 cm, cm"@en-gb .
+_:b0 <http://schemas.delving.eu/nave/terms/technique> "olieverf"@nl .
+_:b4 <http://schemas.delving.eu/nave/terms/allowDeepZoom> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schemas.delving.eu/nave/terms/RijksCollection> .
+<urn:mauritshuis/0715_repro> <http://schemas.delving.eu/nave/terms/allowDeepZoom> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schemas.delving.eu/nave/terms/DcnResource> .
+_:b1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europeana.eu/schemas/edm/Agent> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/549> <http://www.europeana.eu/schemas/edm/rights> <https://creativecommons.org/publicdomain/mark/1.0/> .
+_:b1 <http://schemas.delving.eu/nave/terms/public> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://schemas.delving.eu/nave/terms/featured> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://rdvocab.info/ElementsGr2/placeOfBirth> "Praag"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://schemas.delving.eu/nave/terms/allowLinkedOpenData> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://rdvocab.info/ElementsGr2/placeOfBirth> "Prague"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europeana.eu/schemas/edm/ProvidedCHO> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/549> <http://purl.org/dc/terms/created> "1640"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://schemas.delving.eu/nave/terms/rijksCollection> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schemas.delving.eu/nave/terms/BrabantCloudResource> .
+_:b1 <http://rdvocab.info/ElementsGr2/dateOfBirth> "1636"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b3 <http://schemas.delving.eu/nave/terms/creatorYearOfDeath> "1657"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://rdvocab.info/ElementsGr2/placeOfDeath> "Den Haag"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schemas.delving.eu/nave/terms/DcnResource> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europeana.eu/schemas/edm/ProvidedCHO> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/549> <http://purl.org/dc/terms/medium> "panel"@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/414> <http://www.europeana.eu/schemas/edm/type> "IMAGE"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schemas.delving.eu/nave/terms/DcnResource> .
+_:b3 <http://schemas.delving.eu/nave/terms/province> "Zuid-Holland"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/549> <http://purl.org/dc/elements/1.1/title> "Stormachtige zee"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/549> <http://purl.org/dc/elements/1.1/creator> "Pieter Mulier de Oude"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/549> <http://purl.org/dc/elements/1.1/creator> "Pieter Mulier the Elder"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://schemas.delving.eu/nave/terms/province> "Zuid-Holland"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/414> <http://www.europeana.eu/schemas/edm/isRelatedTo> "https://collectienederland.nl/page/aggregation/mauritshuis/421"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://schemas.delving.eu/nave/terms/technique> "oil"@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/541> <http://purl.org/dc/terms/extent> "height, hoogte 44 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/541> <http://purl.org/dc/elements/1.1/date> "1638"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://schemas.delving.eu/nave/terms/technique> "olieverf"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/659> <http://purl.org/dc/terms/created> "1623"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/659> <http://www.europeana.eu/schemas/edm/type> "IMAGE"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/414> <http://www.europeana.eu/schemas/edm/isRelatedTo> "https://collectienederland.nl/page/aggregation/mauritshuis/423"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://schemas.delving.eu/nave/terms/technique> "oil"@en .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.openarchives.org/ore/terms/Aggregation> .
+_:b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europeana.eu/schemas/edm/Agent> .
+_:b0 <http://rdvocab.info/ElementsGr2/placeOfBirth> "Den Haag"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/690> <http://www.europeana.eu/schemas/edm/rights> <https://creativecommons.org/publicdomain/mark/1.0/> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/690> <http://www.europeana.eu/schemas/edm/aggregatedCHO> <http://data.collectienederland.nl/resource/document/mauritshuis/690> .
+_:b0 <http://schemas.delving.eu/nave/terms/creatorYearOfDeath> "1664"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/414> <http://purl.org/dc/elements/1.1/type> "painting"@en .
+_:b0 <http://rdvocab.info/ElementsGr2/placeOfDeath> "Amsterdam"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schemas.delving.eu/nave/terms/DelvingResource> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/690> <http://www.europeana.eu/schemas/edm/dataProvider> "Mauritshuis"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://rdvocab.info/ElementsGr2/dateOfBirth> "1610"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://schemas.delving.eu/nave/terms/allowSourceDownload> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+<urn:mauritshuis/690_repro> <http://schemas.delving.eu/nave/terms/allowDeepZoom> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/414> <http://purl.org/dc/elements/1.1/date> "1621"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/414> <http://purl.org/dc/terms/created> "1621"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://schemas.delving.eu/nave/terms/allowDeepZoom> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://schemas.delving.eu/nave/terms/allowLinkedOpenData> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/414> <http://purl.org/dc/elements/1.1/title> "Portret van een officier"@nl .
+<urn:mauritshuis/690_repro> <http://schemas.delving.eu/nave/terms/allowPublicWebView> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schemas.delving.eu/nave/terms/BrabantCloudResource> .
+_:b3 <http://schemas.delving.eu/nave/terms/inscriptionType> "gesigneerd en gedateerd"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/414> <http://purl.org/dc/terms/extent> "height, hoogte 114.5 cm, cm"@nl-nl .
+_:b3 <http://schemas.delving.eu/nave/terms/inscriptionType> "signed and dated"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b3 <http://schemas.delving.eu/nave/terms/inscription> "Evander Poel / 1650"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://rdvocab.info/ElementsGr2/dateOfBirth> "1572"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://schemas.delving.eu/nave/terms/technique> "oil"@en .
+_:b0 <http://rdvocab.info/ElementsGr2/placeOfBirth> "The Hague"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schemas.delving.eu/nave/terms/RijksCollection> .
+_:b0 <http://schemas.delving.eu/nave/terms/allowSourceDownload> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/698> <http://www.europeana.eu/schemas/edm/rights> <https://creativecommons.org/publicdomain/mark/1.0/> .

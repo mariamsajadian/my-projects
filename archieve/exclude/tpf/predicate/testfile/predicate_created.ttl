@@ -1,0 +1,123 @@
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://rdfs.org/ns/void#subset> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/created> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/hydra/core#Collection> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/ns/hydra/core#itemsPerPage> "100"^^<http://www.w3.org/2001/XMLSchema#long> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/ns/hydra/core#search> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/created#triplePattern> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/created> <http://rdfs.org/ns/void#triples> "767"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/created> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/hydra/core#Collection> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/created> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/hydra/core#PagedCollection> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/created> <http://www.w3.org/ns/hydra/core#firstPage> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/created&page=1> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/created> <http://www.w3.org/ns/hydra/core#itemsPerPage> "100"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/created> <http://www.w3.org/ns/hydra/core#nextPage> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/created&page=2> .
+
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/created> <http://www.w3.org/ns/hydra/core#totalItems> "767"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/created#subject> <http://www.w3.org/ns/hydra/core#property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/created#subject> <http://www.w3.org/ns/hydra/core#variable> "subject" .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/created#predicate> <http://www.w3.org/ns/hydra/core#property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/created#predicate> <http://www.w3.org/ns/hydra/core#variable> "predicate" .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/created#object> <http://www.w3.org/ns/hydra/core#property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/created#object> <http://www.w3.org/ns/hydra/core#variable> "object" .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/created#triplePattern> <http://www.w3.org/ns/hydra/core#mapping> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/created#subject> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/created#triplePattern> <http://www.w3.org/ns/hydra/core#mapping> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/created#predicate> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/created#triplePattern> <http://www.w3.org/ns/hydra/core#mapping> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/created#object> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/created#triplePattern> <http://www.w3.org/ns/hydra/core#template> "http://data.collectienederland.nl/fragments/mauritshuis{?subject,predicate,object}" .
+<http://data.collectienederland.nl/resource/document/mauritshuis/560> <http://purl.org/dc/terms/created> "1650"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/596> <http://purl.org/dc/terms/created> "1629"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/615> <http://purl.org/dc/terms/created> "1632"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/332> <http://purl.org/dc/terms/created> "1710 - 1735 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/454> <http://purl.org/dc/terms/created> "1672"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/422> <http://purl.org/dc/terms/created> "1612"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/658> <http://purl.org/dc/terms/created> "1630 - 1640 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/357> <http://purl.org/dc/terms/created> "1600 - 1700 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/411> <http://purl.org/dc/terms/created> "1745"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/542> <http://purl.org/dc/terms/created> "1629"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/695> <http://purl.org/dc/terms/created> "1615"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/415> <http://purl.org/dc/terms/created> "1624"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/348> <http://purl.org/dc/terms/created> "1530"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/530> <http://purl.org/dc/terms/created> "1670"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/531> <http://purl.org/dc/terms/created> "1664"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/669> <http://purl.org/dc/terms/created> "1790"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/718> <http://purl.org/dc/terms/created> "1682"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/572> <http://purl.org/dc/terms/created> "1637"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/675> <http://purl.org/dc/terms/created> "1645"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/392> <http://purl.org/dc/terms/created> "1636"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/424> <http://purl.org/dc/terms/created> "1615"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/601> <http://purl.org/dc/terms/created> "1665"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/599> <http://purl.org/dc/terms/created> "1647"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/468> <http://purl.org/dc/terms/created> "1670 - 1675 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/498> <http://purl.org/dc/terms/created> "1661"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/609> <http://purl.org/dc/terms/created> "1743"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/558> <http://purl.org/dc/terms/created> "1643"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/430> <http://purl.org/dc/terms/created> "1647"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/449> <http://purl.org/dc/terms/created> "1580 - 1590 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/474> <http://purl.org/dc/terms/created> "1667"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/309> <http://purl.org/dc/terms/created> "1650"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/310> <http://purl.org/dc/terms/created> "1540"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/710> <http://purl.org/dc/terms/created> "1680"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/670> <http://purl.org/dc/terms/created> "1665"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/623> <http://purl.org/dc/terms/created> "1660"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/496> <http://purl.org/dc/terms/created> "1645"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/607> <http://purl.org/dc/terms/created> "1634 - 1637 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/687> <http://purl.org/dc/terms/created> "1645 - 1650 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/556> <http://purl.org/dc/terms/created> "1600 - 1700 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/277> <http://purl.org/dc/terms/created> "1542"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/429> <http://purl.org/dc/terms/created> "1664"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/423> <http://purl.org/dc/terms/created> "1611"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/655> <http://purl.org/dc/terms/created> "1627"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/672> <http://purl.org/dc/terms/created> "1615 - 1620 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/730> <http://purl.org/dc/terms/created> "1758"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/397> <http://purl.org/dc/terms/created> "1660"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/393> <http://purl.org/dc/terms/created> "1622"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/715> <http://purl.org/dc/terms/created> "1689"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/541> <http://purl.org/dc/terms/created> "1638"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/698> <http://purl.org/dc/terms/created> "1650"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/459> <http://purl.org/dc/terms/created> "1625"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/342> <http://purl.org/dc/terms/created> "1620 - 1630 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/448> <http://purl.org/dc/terms/created> "1580 - 1590 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/535> <http://purl.org/dc/terms/created> "1663"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/665> <http://purl.org/dc/terms/created> "1655"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/720> <http://purl.org/dc/terms/created> "1690"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/314> <http://purl.org/dc/terms/created> "1570"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/548> <http://purl.org/dc/terms/created> "1663 - 1665 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/335> <http://purl.org/dc/terms/created> "1660 - 1665 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/296> <http://purl.org/dc/terms/created> "1655 - 1660 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/445> <http://purl.org/dc/terms/created> "1628"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/624> <http://purl.org/dc/terms/created> "1655"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/282> <http://purl.org/dc/terms/created> "1625 - 1630 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/562> <http://purl.org/dc/terms/created> "1660"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/396> <http://purl.org/dc/terms/created> "1660"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/540> <http://purl.org/dc/terms/created> "1780"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/543> <http://purl.org/dc/terms/created> "1630 - 1640 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/696> <http://purl.org/dc/terms/created> "1630 - 1640 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/428> <http://purl.org/dc/terms/created> "1647"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/595> <http://purl.org/dc/terms/created> "1485 - 1490 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/706> <http://purl.org/dc/terms/created> "1667"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/605> <http://purl.org/dc/terms/created> "1654"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/290> <http://purl.org/dc/terms/created> "1600 - 1700 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/627> <http://purl.org/dc/terms/created> "1651"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1048> <http://purl.org/dc/terms/created> "1640 - 1645 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/967> <http://purl.org/dc/terms/created> "1690 - 1700 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/830> <http://purl.org/dc/terms/created> "1520"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/875> <http://purl.org/dc/terms/created> "1590"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1100> <http://purl.org/dc/terms/created> "1653"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/744> <http://purl.org/dc/terms/created> "1652 - 1653 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1136> <http://purl.org/dc/terms/created> "1718"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1070> <http://purl.org/dc/terms/created> "1830"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/937> <http://purl.org/dc/terms/created> "1617"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1160> <http://purl.org/dc/terms/created> "1655"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/785> <http://purl.org/dc/terms/created> "1610"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/789> <http://purl.org/dc/terms/created> "1646"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1033> <http://purl.org/dc/terms/created> "1620"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/814> <http://purl.org/dc/terms/created> "1661"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1119> <http://purl.org/dc/terms/created> "1740 - 1760 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1068> <http://purl.org/dc/terms/created> "1730"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/888> <http://purl.org/dc/terms/created> "1655"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/760> <http://purl.org/dc/terms/created> "1660 - 1665 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1127> <http://purl.org/dc/terms/created> "1655 - 1660 "^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/914> <http://purl.org/dc/terms/created> "1597"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1032> <http://purl.org/dc/terms/created> "1625"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1071> <http://purl.org/dc/terms/created> "1709"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/844> <http://purl.org/dc/terms/created> "1480"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1076> <http://purl.org/dc/terms/created> "1633"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/968> <http://purl.org/dc/terms/created> "1670"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/972> <http://purl.org/dc/terms/created> "1690"^^<http://www.w3.org/2001/XMLSchema#string> .

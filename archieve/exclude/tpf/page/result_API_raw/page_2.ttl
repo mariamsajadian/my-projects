@@ -1,0 +1,123 @@
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://rdfs.org/ns/void#subset> <http://data.collectienederland.nl/fragments/mauritshuis?page=2> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/hydra/core#Collection> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/ns/hydra/core#itemsPerPage> "100"^^<http://www.w3.org/2001/XMLSchema#long> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/ns/hydra/core#search> <http://data.collectienederland.nl/fragments/mauritshuis?page=2#triplePattern> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=2> <http://rdfs.org/ns/void#triples> "39780"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/hydra/core#Collection> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/hydra/core#PagedCollection> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=2> <http://www.w3.org/ns/hydra/core#firstPage> <http://data.collectienederland.nl/fragments/mauritshuis?page=1> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=2> <http://www.w3.org/ns/hydra/core#itemsPerPage> "100"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=2> <http://www.w3.org/ns/hydra/core#nextPage> <http://data.collectienederland.nl/fragments/mauritshuis?page=3> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=2> <http://www.w3.org/ns/hydra/core#previousPage> <http://data.collectienederland.nl/fragments/mauritshuis?page=1> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=2> <http://www.w3.org/ns/hydra/core#totalItems> "39780"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=2#subject> <http://www.w3.org/ns/hydra/core#property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=2#subject> <http://www.w3.org/ns/hydra/core#variable> "subject" .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=2#predicate> <http://www.w3.org/ns/hydra/core#property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=2#predicate> <http://www.w3.org/ns/hydra/core#variable> "predicate" .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=2#object> <http://www.w3.org/ns/hydra/core#property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=2#object> <http://www.w3.org/ns/hydra/core#variable> "object" .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=2#triplePattern> <http://www.w3.org/ns/hydra/core#mapping> <http://data.collectienederland.nl/fragments/mauritshuis?page=2#subject> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=2#triplePattern> <http://www.w3.org/ns/hydra/core#mapping> <http://data.collectienederland.nl/fragments/mauritshuis?page=2#predicate> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=2#triplePattern> <http://www.w3.org/ns/hydra/core#mapping> <http://data.collectienederland.nl/fragments/mauritshuis?page=2#object> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=2#triplePattern> <http://www.w3.org/ns/hydra/core#template> "http://data.collectienederland.nl/fragments/mauritshuis{?subject,predicate,object}" .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/335> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.openarchives.org/ore/terms/Aggregation> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/455> <http://www.europeana.eu/schemas/edm/isRelatedTo> "https://collectienederland.nl/page/aggregation/mauritshuis/416"^^<http://www.w3.org/2001/XMLSchema#string> .
+<urn:mauritshuis/0543_repro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europeana.eu/schemas/edm/WebResource> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.openarchives.org/ore/terms/Aggregation> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/696> <http://www.europeana.eu/schemas/edm/provider> "Rijksdienst voor het Cultureel Erfgoed"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schemas.delving.eu/nave/terms/BrabantCloudResource> .
+_:b0 <http://schemas.delving.eu/nave/terms/inscriptionType> "bears inscription"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://rdvocab.info/ElementsGr2/dateOfDeath> "1692"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/540> <http://purl.org/dc/elements/1.1/identifier> "540"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/296> <http://purl.org/dc/elements/1.1/date> "1655 - 1660 "^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://rdvocab.info/ElementsGr2/dateOfBirth> "1553"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://rdvocab.info/ElementsGr2/placeOfDeath> "Keulen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/543> <http://www.europeana.eu/schemas/edm/provider> "Rijksdienst voor het Cultureel Erfgoed"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://schemas.delving.eu/nave/terms/province> "Zuid-Holland"^^<http://www.w3.org/2001/XMLSchema#string> .
+<urn:mauritshuis/0728_repro> <http://schemas.delving.eu/nave/terms/allowPublicWebView> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schemas.delving.eu/nave/terms/DcnResource> .
+_:b0 <http://rdvocab.info/ElementsGr2/placeOfBirth> "Seville"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/473> <http://purl.org/dc/elements/1.1/identifier> "473"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schemas.delving.eu/nave/terms/DcnResource> .
+_:b0 <http://schemas.delving.eu/nave/terms/province> "Zuid-Holland"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b4 <http://schemas.delving.eu/nave/terms/allowDeepZoom> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/1044> <http://www.europeana.eu/schemas/edm/provider> "Rijksdienst voor het Cultureel Erfgoed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/1044> <http://www.europeana.eu/schemas/edm/rights> <https://creativecommons.org/publicdomain/mark/1.0/> .
+_:b3 <http://schemas.delving.eu/nave/terms/technique> "oil"@en .
+_:b1 <http://schemas.delving.eu/nave/terms/creatorYearOfDeath> "1691"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/965> <http://purl.org/dc/elements/1.1/type> "painting"@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1046> <http://purl.org/dc/elements/1.1/date> "1598"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1046> <http://purl.org/dc/elements/1.1/identifier> "1046"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1046> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/965> <http://purl.org/dc/terms/extent> "height, hoogte 109.5 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1046> <http://purl.org/dc/elements/1.1/type> "painting"@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1044> <http://purl.org/dc/elements/1.1/title> "Meergezicht met zeilschepen"@nl .
+_:b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schemas.delving.eu/nave/terms/BrabantCloudResource> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/965> <http://purl.org/dc/elements/1.1/date> "1560 - 1565 "^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b4 <http://rdvocab.info/ElementsGr2/placeOfDeath> "Dordrecht"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://schemas.delving.eu/nave/terms/allowLinkedOpenData> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europeana.eu/schemas/edm/ProvidedCHO> .
+<urn:mauritshuis/967_repro> <http://schemas.delving.eu/nave/terms/allowDeepZoom> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b3 <http://schemas.delving.eu/nave/terms/featured> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b3 <http://schemas.delving.eu/nave/terms/allowSourceDownload> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://rdvocab.info/ElementsGr2/dateOfBirth> "1584"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/967> <http://purl.org/dc/terms/medium> "paneel"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/926> <http://purl.org/dc/elements/1.1/identifier> "926"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://rdvocab.info/ElementsGr2/placeOfDeath> "Kassel"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/969> <http://purl.org/dc/elements/1.1/description> "The sea is wild and tempestuous beneath a stormy sky. On the beach fishermen busy themselves with their boats, while others in the distance attempt to save the crew of a sinking ship. From the dune, an elegantly dressed couple watch the scene unfold. Porcellis used a limited palette of mainly browns and greys for his painting. Yet the end result is so convincing that you can almost feel the cold, the rain and the turmoil of the shipwreck as you look at it. And that of course was exactly what was so appealing about this seascape."@en .
+_:b4 <http://rdvocab.info/ElementsGr2/placeOfDeath> "Amsterdam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/969> <http://purl.org/dc/elements/1.1/title> ""@en .
+_:b2 <http://rdvocab.info/ElementsGr2/placeOfBirth> "Siegen"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://rdvocab.info/ElementsGr2/placeOfBirth> "Antwerpen"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://rdvocab.info/ElementsGr2/placeOfDeath> "Antwerp"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b4 <http://schemas.delving.eu/nave/terms/featured> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/963> <http://www.europeana.eu/schemas/edm/provider> "Rijksdienst voor het Cultureel Erfgoed"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://schemas.delving.eu/nave/terms/creatorRole> "trant van"@nl-nl .
+_:b0 <http://rdvocab.info/ElementsGr2/placeOfDeath> "Haarlem"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://schemas.delving.eu/nave/terms/creatorYearOfBirth> "1566"^^<http://www.w3.org/2001/XMLSchema#string> .
+<urn:mauritshuis/836> <http://schemas.delving.eu/nave/terms/allowSourceDownload> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europeana.eu/schemas/edm/Agent> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/836> <http://www.europeana.eu/schemas/edm/rights> <https://creativecommons.org/publicdomain/mark/1.0/> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/836> <http://www.europeana.eu/schemas/edm/aggregatedCHO> <http://data.collectienederland.nl/resource/document/mauritshuis/836> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1042> <http://purl.org/dc/elements/1.1/creator> "Mattheus Terwesten"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://schemas.delving.eu/nave/terms/rijksCollection> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b4 <http://rdvocab.info/ElementsGr2/placeOfBirth> "Dordrecht"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/965> <http://www.europeana.eu/schemas/edm/type> "IMAGE"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://schemas.delving.eu/nave/terms/allowDeepZoom> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schemas.delving.eu/nave/terms/RijksCollection> .
+_:b3 <http://schemas.delving.eu/nave/terms/rijksCollection> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://schemas.delving.eu/nave/terms/allowSourceDownload> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://schemas.delving.eu/nave/terms/technique> "olieverf"@nl .
+_:b2 <http://schemas.delving.eu/nave/terms/featured> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://schemas.delving.eu/nave/terms/technique> "oil"@en .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/1042> <http://www.europeana.eu/schemas/edm/rights> <https://creativecommons.org/publicdomain/mark/1.0/> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/830> <http://purl.org/dc/terms/medium> "panel"@en .
+_:b3 <http://schemas.delving.eu/nave/terms/public> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/830> <http://purl.org/dc/elements/1.1/description> "Jan Gossaert was one of the first artists to introduce the Italian Renaissance style to the Northern Netherlands. This style is characterised by the classical forms of the Virgin’s face and the convincing modelling of the shapes of the body and drapery. This painting focuses on the tender care of a mother for her child. They are playing peek-a-boo with her veil. For the Virgin’s blue cloak and dress, Gossaert used ultramarine, a costly pigment made of ground semi-precious stones."@en .
+_:b2 <http://rdvocab.info/ElementsGr2/placeOfDeath> "Zoeterwoude"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/967> <http://purl.org/dc/elements/1.1/title> "Buitenhuis en park"@nl .
+_:b0 <http://schemas.delving.eu/nave/terms/technique> "olieverf"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/926> <http://purl.org/dc/terms/medium> "paneel"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/967> <http://purl.org/dc/terms/medium> "panel"@en .
+_:b4 <http://schemas.delving.eu/nave/terms/rijksCollection> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b3 <http://rdvocab.info/ElementsGr2/dateOfBirth> "1469"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/926> <http://purl.org/dc/elements/1.1/description> "Esta não é uma pintura acabada, mas um esboço a óleo. Rubens o executou como um ‘modelo’, ou esboço de um enorme retábulo para a Catedral de Nossa Senhora, em Antuérpia. Seu objetivo era o de mostrar seus planos aos seus patrocinadores. Rubens descreveu a ascenção da Virgem ao paraíso como um movimento de rotação. Do sarcófago de pedra, a Virgem flutua numa nuvem de anjos em direção ao paraíso, onde será coroada. As rápidas e fortes pinceladas de Rubens adicionam dinamismo à cena."@pt-pt .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/1083> <http://www.europeana.eu/schemas/edm/provider> "Rijksdienst voor het Cultureel Erfgoed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/926> <http://purl.org/dc/elements/1.1/description> "Questo non è un dipinto completato, quanto piuttosto uno schizzo a olio. Rubens lo realizzò come ‘modello’, o bozzetto, di un’enorme pala d’altare per la Cattedrale di Nostra Signora di Anversa. Il suo scopo era quello di mostrare i suoi piani ai suoi mecenati. Rubens dipinse l’ascesa della Vergine in Paradiso come un movimento travolgente: dal sarcofago di pietra, la Vergine sale verso l’alto in una nube di angeli, dove sarà incoronata. Un ulteriore dinamismo è aggiunto alla scena grazie alle rapide, potenti pennellate di Rubens."@it-it .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1083> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europeana.eu/schemas/edm/ProvidedCHO> .
+_:b1 <http://schemas.delving.eu/nave/terms/creatorYearOfDeath> "1674"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1083> <http://www.europeana.eu/schemas/edm/type> "IMAGE"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://schemas.delving.eu/nave/terms/featured> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/875> <http://www.europeana.eu/schemas/edm/rights> <https://creativecommons.org/publicdomain/mark/1.0/> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1083> <http://purl.org/dc/terms/medium> "cotton"@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/875> <http://purl.org/dc/elements/1.1/identifier> "875"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1083> <http://purl.org/dc/terms/medium> "katoen"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/969> <http://purl.org/dc/terms/extent> "width, breedte 66.5 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/875> <http://purl.org/dc/elements/1.1/title> ""@en .
+<urn:mauritshuis/0739_front_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europeana.eu/schemas/edm/WebResource> .
+_:b2 <http://schemas.delving.eu/nave/terms/creatorYearOfDeath> "2012"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/832> <http://purl.org/dc/elements/1.1/identifier> "832"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://rdvocab.info/ElementsGr2/dateOfBirth> "1550"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b3 <http://schemas.delving.eu/nave/terms/featured> "false"^^<http://www.w3.org/2001/XMLSchema#string> .

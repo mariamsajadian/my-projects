@@ -1,0 +1,123 @@
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://rdfs.org/ns/void#subset> <http://data.collectienederland.nl/fragments/mauritshuis?page=4> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/hydra/core#Collection> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/ns/hydra/core#itemsPerPage> "100"^^<http://www.w3.org/2001/XMLSchema#long> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/ns/hydra/core#search> <http://data.collectienederland.nl/fragments/mauritshuis?page=4#triplePattern> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=4> <http://rdfs.org/ns/void#triples> "39780"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/hydra/core#Collection> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/hydra/core#PagedCollection> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=4> <http://www.w3.org/ns/hydra/core#firstPage> <http://data.collectienederland.nl/fragments/mauritshuis?page=1> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=4> <http://www.w3.org/ns/hydra/core#itemsPerPage> "100"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=4> <http://www.w3.org/ns/hydra/core#nextPage> <http://data.collectienederland.nl/fragments/mauritshuis?page=5> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=4> <http://www.w3.org/ns/hydra/core#previousPage> <http://data.collectienederland.nl/fragments/mauritshuis?page=3> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=4> <http://www.w3.org/ns/hydra/core#totalItems> "39780"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=4#subject> <http://www.w3.org/ns/hydra/core#property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=4#subject> <http://www.w3.org/ns/hydra/core#variable> "subject" .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=4#predicate> <http://www.w3.org/ns/hydra/core#property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=4#predicate> <http://www.w3.org/ns/hydra/core#variable> "predicate" .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=4#object> <http://www.w3.org/ns/hydra/core#property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=4#object> <http://www.w3.org/ns/hydra/core#variable> "object" .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=4#triplePattern> <http://www.w3.org/ns/hydra/core#mapping> <http://data.collectienederland.nl/fragments/mauritshuis?page=4#subject> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=4#triplePattern> <http://www.w3.org/ns/hydra/core#mapping> <http://data.collectienederland.nl/fragments/mauritshuis?page=4#predicate> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=4#triplePattern> <http://www.w3.org/ns/hydra/core#mapping> <http://data.collectienederland.nl/fragments/mauritshuis?page=4#object> .
+<http://data.collectienederland.nl/fragments/mauritshuis?page=4#triplePattern> <http://www.w3.org/ns/hydra/core#template> "http://data.collectienederland.nl/fragments/mauritshuis{?subject,predicate,object}" .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1104> <http://purl.org/dc/terms/extent> "width, breedte 116.4 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1132> <http://purl.org/dc/terms/created> "1630"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://schemas.delving.eu/nave/terms/allowSourceDownload> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://schemas.delving.eu/nave/terms/public> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://schemas.delving.eu/nave/terms/inscriptionType> "gesigneerd en gedateerd"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/1106> <http://www.europeana.eu/schemas/edm/provider> "Rijksdienst voor het Cultureel Erfgoed"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schemas.delving.eu/nave/terms/BrabantCloudResource> .
+_:b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europeana.eu/schemas/edm/Agent> .
+_:b0 <http://rdvocab.info/ElementsGr2/dateOfDeath> "1727"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://schemas.delving.eu/nave/terms/public> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://schemas.delving.eu/nave/terms/creatorYearOfBirth> "1695"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/735> <http://www.europeana.eu/schemas/edm/rights> <https://creativecommons.org/publicdomain/mark/1.0/> .
+<urn:mauritshuis/737> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europeana.eu/schemas/edm/WebResource> .
+<urn:mauritshuis/737> <http://schemas.delving.eu/nave/terms/allowPublicWebView> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/735> <http://purl.org/dc/terms/created> "1743"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://schemas.delving.eu/nave/terms/creatorYearOfBirth> "1695"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/735> <http://www.europeana.eu/schemas/edm/isRelatedTo> "https://collectienederland.nl/page/aggregation/mauritshuis/732"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schemas.delving.eu/nave/terms/DcnResource> .
+_:b1 <http://schemas.delving.eu/nave/terms/rijksCollection> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/735> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1141> <http://purl.org/dc/elements/1.1/date> "1718"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/733> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.openarchives.org/ore/terms/Aggregation> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1141> <http://www.europeana.eu/schemas/edm/isRelatedTo> "https://collectienederland.nl/page/aggregation/mauritshuis/1140"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/737> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.openarchives.org/ore/terms/Aggregation> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1141> <http://purl.org/dc/elements/1.1/title> ""@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/735> <http://purl.org/dc/terms/extent> "height, hoogte 270 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1141> <http://purl.org/dc/elements/1.1/creator> "Giovanni Antonio Pellegrini"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1141> <http://purl.org/dc/terms/extent> "height, hoogte 261.2 cm, cm"@nl-nl .
+_:b0 <http://rdvocab.info/ElementsGr2/dateOfBirth> "1675"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/733> <http://purl.org/dc/elements/1.1/description> "Deze plafondschildering is afkomstig uit een huis in Leiden (Rapenburg 48) en hangt hier sinds 1912. Op het ovale middenstuk is Apollo te zien, de klassieke god van de kunsten. Hij wordt omringd door zijn negen muzen die voor de verschillende kunstdisciplines staan. De vier grisailles rondom stellen het treurdicht, het blijspel, de herderszang en het heldendicht voor. De Amsterdamse Jacob de Wit was in de 18de eeuw dé kunstenaar die dit soort illusionistische hoogstandjes kon maken."@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/746> <http://purl.org/dc/elements/1.1/creator> "Job Adriaensz Berckheyde"^^<http://www.w3.org/2001/XMLSchema#string> .
+<urn:mauritshuis/0735> <http://schemas.delving.eu/nave/terms/allowPublicWebView> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://schemas.delving.eu/nave/terms/technique> "olieverf"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/746> <http://purl.org/dc/elements/1.1/date> "1666"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/746> <http://www.europeana.eu/schemas/edm/type> "IMAGE"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://schemas.delving.eu/nave/terms/allowDeepZoom> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://rdvocab.info/ElementsGr2/placeOfBirth> "Amsterdam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/1145> <http://www.europeana.eu/schemas/edm/aggregatedCHO> <http://data.collectienederland.nl/resource/document/mauritshuis/1145> .
+_:b0 <http://rdvocab.info/ElementsGr2/dateOfDeath> "1754"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/744> <http://www.europeana.eu/schemas/edm/type> "IMAGE"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/744> <http://purl.org/dc/elements/1.1/description> "Een moeder kamt geconcentreerd het haar van haar kind op zoek naar luizen. Het joch ondergaat het gepeuter aan zijn hoofd gelaten. Ter Borch schilderde veel van dit soort genrevoorstellingen, waarbij de hoofdpersonen geheel opgaan in hun bezigheden. <i>De luizenjacht</i> bevat vermoedelijk een moraal. Moederlijke zorg, orde en netheid waren bij uitstek de eigenschappen van de goede huisvrouw. In de 17de eeuw gold de luizenkam als een symbool voor zowel een schoon uiterlijk als een rein innerlijk."@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/744> <http://purl.org/dc/elements/1.1/description> "一位母亲正在仔细地梳理孩子的头发，寻找着虱子。孩子正在忍耐着接受检查。杰拉德·特·博尔奇画了很多此类场景，主角完全沉浸在他们所做的事情当中。 《抓虱子》包含的可能是一种道德，因为母爱、秩序和洁净是一个好主妇的完美品质。在十七世纪，虱子梳象征的是干净的外表和纯净的品格。"@zh-cn .
+<urn:mauritshuis/746_repro> <http://schemas.delving.eu/nave/terms/allowSourceDownload> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1145> <http://www.europeana.eu/schemas/edm/isRelatedTo> "https://collectienederland.nl/page/aggregation/mauritshuis/1148"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/744> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.openarchives.org/ore/terms/Aggregation> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1143> <http://www.europeana.eu/schemas/edm/type> "IMAGE"^^<http://www.w3.org/2001/XMLSchema#string> .
+<urn:mauritshuis/0744_repro> <http://schemas.delving.eu/nave/terms/allowSourceDownload> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+<urn:mauritshuis/0744_repro> <http://schemas.delving.eu/nave/terms/allowPublicWebView> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b3 <http://schemas.delving.eu/nave/terms/creatorYearOfBirth> "1675"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/746> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.openarchives.org/ore/terms/Aggregation> .
+_:b4 <http://schemas.delving.eu/nave/terms/allowLinkedOpenData> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/1143> <http://www.europeana.eu/schemas/edm/rights> <https://creativecommons.org/publicdomain/mark/1.0/> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/1143> <http://www.europeana.eu/schemas/edm/aggregatedCHO> <http://data.collectienederland.nl/resource/document/mauritshuis/1143> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europeana.eu/schemas/edm/ProvidedCHO> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1136> <http://purl.org/dc/elements/1.1/title> "Aurora"@nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1136> <http://www.europeana.eu/schemas/edm/isRelatedTo> "https://collectienederland.nl/page/aggregation/mauritshuis/1137"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b3 <http://schemas.delving.eu/nave/terms/rijksCollection> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/744> <http://purl.org/dc/terms/medium> "paneel"@nl .
+_:b3 <http://rdvocab.info/ElementsGr2/dateOfDeath> "1741"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/744> <http://purl.org/dc/elements/1.1/description> "母親が子供の髪に櫛を入れ、シラミを探すことに没頭しています。少年はじっと我慢して、点検が終わるのを待っています。テル・ボルフは、人物が何かに熱中している様子をよく描きました。 「シラミ取り」には、おそらく教訓が込められています。子供の世話、秩序や清潔感を保つことは、この時代の良妻賢母の必須条件でした。シラミ取りの櫛は17世紀、清潔な身体と内面的清らかさの象徴でした。"@ja-jp .
+_:b4 <http://rdvocab.info/ElementsGr2/dateOfBirth> "1630"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b3 <http://rdvocab.info/ElementsGr2/dateOfDeath> "1705"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1145> <http://purl.org/dc/elements/1.1/creator> "Giovanni Antonio Pellegrini"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b4 <http://schemas.delving.eu/nave/terms/inscriptionType> "bears inscription"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b3 <http://schemas.delving.eu/nave/terms/rijksCollection> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/1138> <http://www.europeana.eu/schemas/edm/provider> "Rijksdienst voor het Cultureel Erfgoed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europeana.eu/schemas/edm/ProvidedCHO> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/744> <http://purl.org/dc/elements/1.1/description> "Auf der Suche nach Läusen kämmt eine Mutter sorgfältig das Haar ihres Kindes. Geduldig lässt der Junge die Prozedur über sich ergehen. Ter Borch schuf viele solcher Genredarstellungen mit völlig in ihr Tun versunkenen Hauptfiguren. Hinter <i>Die Läusejagd</i> verbirgt sich wohl auch eine Moral. Mütterliche Sorge, Ordnung und Sauberkeit waren Tugenden einer guten Hausfrau. Im siebzehnten Jahrhundert galt der Läusekamm deshalb nicht nur als Symbol für ein sauberes Äußeres, sondern auch für ein reines Herz."@de-de .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/748> <http://www.europeana.eu/schemas/edm/aggregatedCHO> <http://data.collectienederland.nl/resource/document/mauritshuis/748> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1145> <http://www.europeana.eu/schemas/edm/isRelatedTo> "https://collectienederland.nl/page/aggregation/mauritshuis/1147"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1143> <http://purl.org/dc/elements/1.1/identifier> "1143"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/744> <http://www.europeana.eu/schemas/edm/rights> <https://creativecommons.org/publicdomain/mark/1.0/> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1143> <http://purl.org/dc/elements/1.1/type> "schilderij"@nl .
+<urn:mauritshuis/1138> <http://schemas.delving.eu/nave/terms/allowDeepZoom> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b3 <http://schemas.delving.eu/nave/terms/public> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b3 <http://schemas.delving.eu/nave/terms/allowDeepZoom> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b3 <http://schemas.delving.eu/nave/terms/featured> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://schemas.delving.eu/nave/terms/technique> "oil"@en .
+_:b1 <http://schemas.delving.eu/nave/terms/province> "Zuid-Holland"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1147> <http://www.europeana.eu/schemas/edm/isRelatedTo> "https://collectienederland.nl/page/aggregation/mauritshuis/1146"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://rdvocab.info/ElementsGr2/placeOfBirth> "Leiden"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1147> <http://www.europeana.eu/schemas/edm/isRelatedTo> "https://collectienederland.nl/page/aggregation/mauritshuis/1148"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1147> <http://purl.org/dc/elements/1.1/creator> "Giovanni Antonio Pellegrini"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b4 <http://schemas.delving.eu/nave/terms/inscriptionType> "draagt opschrift"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1149> <http://www.europeana.eu/schemas/edm/isRelatedTo> "https://collectienederland.nl/page/aggregation/mauritshuis/1145"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b2 <http://rdvocab.info/ElementsGr2/dateOfBirth> "1620"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b4 <http://schemas.delving.eu/nave/terms/inscriptionType> "gesigneerd en gedateerd"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1149> <http://purl.org/dc/elements/1.1/type> "painting"@en .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1149> <http://purl.org/dc/elements/1.1/type> "schilderij"@nl .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/1138> <http://www.europeana.eu/schemas/edm/rights> <https://creativecommons.org/publicdomain/mark/1.0/> .
+<urn:mauritshuis/0838_repro> <http://schemas.delving.eu/nave/terms/allowPublicWebView> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://schemas.delving.eu/nave/terms/creatorYearOfDeath> "1741"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/829> <http://www.europeana.eu/schemas/edm/aggregatedCHO> <http://data.collectienederland.nl/resource/document/mauritshuis/829> .
+<urn:mauritshuis/1147_repro> <http://schemas.delving.eu/nave/terms/allowSourceDownload> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schemas.delving.eu/nave/terms/DcnResource> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/827> <http://www.europeana.eu/schemas/edm/dataProvider> "Mauritshuis"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://schemas.delving.eu/nave/terms/featured> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/mauritshuis/827> <http://purl.org/dc/elements/1.1/identifier> "827"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/mauritshuis/1147> <http://www.europeana.eu/schemas/edm/rights> <https://creativecommons.org/publicdomain/mark/1.0/> .
+_:b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schemas.delving.eu/nave/terms/RijksCollection> .

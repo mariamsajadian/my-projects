@@ -1,0 +1,123 @@
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://rdfs.org/ns/void#subset> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/extent> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/hydra/core#Collection> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/ns/hydra/core#itemsPerPage> "100"^^<http://www.w3.org/2001/XMLSchema#long> .
+<http://data.collectienederland.nl/fragments/mauritshuis> <http://www.w3.org/ns/hydra/core#search> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/extent#triplePattern> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/extent> <http://rdfs.org/ns/void#triples> "1838"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/extent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/hydra/core#Collection> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/extent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/hydra/core#PagedCollection> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/extent> <http://www.w3.org/ns/hydra/core#firstPage> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/extent&page=1> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/extent> <http://www.w3.org/ns/hydra/core#itemsPerPage> "100"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/extent> <http://www.w3.org/ns/hydra/core#nextPage> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/extent&page=2> .
+
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/extent> <http://www.w3.org/ns/hydra/core#totalItems> "1838"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/extent#subject> <http://www.w3.org/ns/hydra/core#property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/extent#subject> <http://www.w3.org/ns/hydra/core#variable> "subject" .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/extent#predicate> <http://www.w3.org/ns/hydra/core#property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/extent#predicate> <http://www.w3.org/ns/hydra/core#variable> "predicate" .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/extent#object> <http://www.w3.org/ns/hydra/core#property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/extent#object> <http://www.w3.org/ns/hydra/core#variable> "object" .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/extent#triplePattern> <http://www.w3.org/ns/hydra/core#mapping> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/extent#subject> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/extent#triplePattern> <http://www.w3.org/ns/hydra/core#mapping> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/extent#predicate> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/extent#triplePattern> <http://www.w3.org/ns/hydra/core#mapping> <http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/extent#object> .
+<http://data.collectienederland.nl/fragments/mauritshuis?predicate=http://purl.org/dc/terms/extent#triplePattern> <http://www.w3.org/ns/hydra/core#template> "http://data.collectienederland.nl/fragments/mauritshuis{?subject,predicate,object}" .
+<http://data.collectienederland.nl/resource/document/mauritshuis/463> <http://purl.org/dc/terms/extent> "height, hoogte 140 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/302> <http://purl.org/dc/terms/extent> "height, hoogte 40 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/541> <http://purl.org/dc/terms/extent> "height, hoogte 44 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/414> <http://purl.org/dc/terms/extent> "height, hoogte 114.5 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/694> <http://purl.org/dc/terms/extent> "height, hoogte 34.2 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/410> <http://purl.org/dc/terms/extent> "height, hoogte 50.5 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/575> <http://purl.org/dc/terms/extent> "height, hoogte 19.5 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/399> <http://purl.org/dc/terms/extent> "height, hoogte 7.8 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/965> <http://purl.org/dc/terms/extent> "height, hoogte 109.5 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/969> <http://purl.org/dc/terms/extent> "width, breedte 66.5 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/928> <http://purl.org/dc/terms/extent> "height, hoogte 31.1 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1102> <http://purl.org/dc/terms/extent> "width, breedte 43.4 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1089> <http://purl.org/dc/terms/extent> "height, hoogte 95 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1104> <http://purl.org/dc/terms/extent> "width, breedte 116.4 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/735> <http://purl.org/dc/terms/extent> "height, hoogte 270 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1141> <http://purl.org/dc/terms/extent> "height, hoogte 261.2 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/919> <http://purl.org/dc/terms/extent> "width, breedte 34.2 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/821> <http://purl.org/dc/terms/extent> "height, hoogte 46.2 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1059> <http://purl.org/dc/terms/extent> "height, hoogte 42.5 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/974> <http://purl.org/dc/terms/extent> "width, breedte 63 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1055> <http://purl.org/dc/terms/extent> "width, breedte 59 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/915> <http://purl.org/dc/terms/extent> "height, hoogte 63.5 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/864> <http://purl.org/dc/terms/extent> "width, breedte 49 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1078> <http://purl.org/dc/terms/extent> "height, hoogte 100 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/802> <http://purl.org/dc/terms/extent> "height, hoogte 53.5 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/868> <http://purl.org/dc/terms/extent> "height, hoogte 41.4 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/860> <http://purl.org/dc/terms/extent> "width, breedte 49.5 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/860> <http://purl.org/dc/terms/extent> "depth, diepte 6 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1117> <http://purl.org/dc/terms/extent> "width, breedte 35.5 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1113> <http://purl.org/dc/terms/extent> "width, breedte 71 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/890> <http://purl.org/dc/terms/extent> "height, hoogte 64 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/767> <http://purl.org/dc/terms/extent> "height, hoogte 98 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/792> <http://purl.org/dc/terms/extent> "height, hoogte 11.6 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1033> <http://purl.org/dc/terms/extent> "width, breedte 53 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/789> <http://purl.org/dc/terms/extent> "height, hoogte 75.8 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/781> <http://purl.org/dc/terms/extent> "height, hoogte 79 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/770> <http://purl.org/dc/terms/extent> "height, hoogte 34.8 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/802> <http://purl.org/dc/terms/extent> "dikte 10.5 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/802> <http://purl.org/dc/terms/extent> "width, breedte 48.5 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1160> <http://purl.org/dc/terms/extent> "width, breedte 23 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1060> <http://purl.org/dc/terms/extent> "height, hoogte 43.5 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1060> <http://purl.org/dc/terms/extent> "height, hoogte 30 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1065> <http://purl.org/dc/terms/extent> "height, hoogte 38 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1068> <http://purl.org/dc/terms/extent> "height, hoogte 90 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/857> <http://purl.org/dc/terms/extent> "height, hoogte 43 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/888> <http://purl.org/dc/terms/extent> "width, breedte 68.8 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1114> <http://purl.org/dc/terms/extent> "height, hoogte 52 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1125> <http://purl.org/dc/terms/extent> "width, breedte 76.5 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1150> <http://purl.org/dc/terms/extent> "height, hoogte 99 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1150> <http://purl.org/dc/terms/extent> "width, breedte 62.5 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/760> <http://purl.org/dc/terms/extent> "height, hoogte 31.2 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/901> <http://purl.org/dc/terms/extent> "width, breedte 87.2 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/849> <http://purl.org/dc/terms/extent> "width, breedte 120.6 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/849> <http://purl.org/dc/terms/extent> "height, hoogte 77.2 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/912> <http://purl.org/dc/terms/extent> "width, breedte 63 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/912> <http://purl.org/dc/terms/extent> "height, hoogte 44.8 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/914> <http://purl.org/dc/terms/extent> "diameter, diameter 42.5 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/757> <http://purl.org/dc/terms/extent> "height, hoogte 79.2 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/757> <http://purl.org/dc/terms/extent> "width, breedte 63.5 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/822> <http://purl.org/dc/terms/extent> "width, breedte 74 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/822> <http://purl.org/dc/terms/extent> "height, hoogte 49.7 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1057> <http://purl.org/dc/terms/extent> "height, hoogte 52.2 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/917> <http://purl.org/dc/terms/extent> "width, breedte 42 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1111> <http://purl.org/dc/terms/extent> "height, hoogte 73.5 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/866> <http://purl.org/dc/terms/extent> "width, breedte 60 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1122> <http://purl.org/dc/terms/extent> "width, breedte 122.5 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/754> <http://purl.org/dc/terms/extent> "width, breedte 73 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/765> <http://purl.org/dc/terms/extent> "width, breedte 53.1 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/787> <http://purl.org/dc/terms/extent> "height, hoogte 25 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/968> <http://purl.org/dc/terms/extent> "height, hoogte 76 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/841> <http://purl.org/dc/terms/extent> "height, hoogte 39.8 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/917> <http://purl.org/dc/terms/extent> "height, hoogte 62.7 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/844> <http://purl.org/dc/terms/extent> "height, hoogte 97.3 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/866> <http://purl.org/dc/terms/extent> "height, hoogte 74.8 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1122> <http://purl.org/dc/terms/extent> "height, hoogte 62 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/732> <http://purl.org/dc/terms/extent> "height, hoogte 270 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1133> <http://purl.org/dc/terms/extent> "height, hoogte 46.5 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1133> <http://purl.org/dc/terms/extent> "width, breedte 38 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/776> <http://purl.org/dc/terms/extent> "width, breedte 30 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/790> <http://purl.org/dc/terms/extent> "width, breedte 36.8 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/790> <http://purl.org/dc/terms/extent> "width, breedte 14 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/790> <http://purl.org/dc/terms/extent> "height, hoogte 48.5 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/808> <http://purl.org/dc/terms/extent> "height, hoogte 59.5 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/819> <http://purl.org/dc/terms/extent> "height, hoogte 27.6 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1043> <http://purl.org/dc/terms/extent> "height, hoogte 50.5 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1082> <http://purl.org/dc/terms/extent> "height, hoogte 500 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1082> <http://purl.org/dc/terms/extent> "width, breedte 500 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1101> <http://purl.org/dc/terms/extent> "width, breedte 35.9 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/932> <http://purl.org/dc/terms/extent> "width, breedte 79 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/925> <http://purl.org/dc/terms/extent> "height, hoogte 121.5 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/782> <http://purl.org/dc/terms/extent> "height, hoogte 56 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/803> <http://purl.org/dc/terms/extent> "height, hoogte 46.8 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/925> <http://purl.org/dc/terms/extent> "width, breedte 97.5 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/782> <http://purl.org/dc/terms/extent> "width, breedte 80 cm, cm"@nl-nl .
+<http://data.collectienederland.nl/resource/document/mauritshuis/936> <http://purl.org/dc/terms/extent> "width, breedte 50 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/820> <http://purl.org/dc/terms/extent> "width, breedte 87 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/803> <http://purl.org/dc/terms/extent> "width, breedte 43 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1056> <http://purl.org/dc/terms/extent> "height, hoogte 99.5 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/918> <http://purl.org/dc/terms/extent> "width, breedte 27.5 cm, cm"@en-gb .
+<http://data.collectienederland.nl/resource/document/mauritshuis/1091> <http://purl.org/dc/terms/extent> "height, hoogte 94 cm, cm"@en-gb .

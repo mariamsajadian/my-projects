@@ -1,0 +1,123 @@
+<http://data.collectienederland.nl/fragments/van-abbe-museum> <http://rdfs.org/ns/void#subset> <http://data.collectienederland.nl/fragments/van-abbe-museum?page=1> .
+<http://data.collectienederland.nl/fragments/van-abbe-museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> .
+<http://data.collectienederland.nl/fragments/van-abbe-museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/hydra/core#Collection> .
+<http://data.collectienederland.nl/fragments/van-abbe-museum> <http://www.w3.org/ns/hydra/core#itemsPerPage> "100"^^<http://www.w3.org/2001/XMLSchema#long> .
+<http://data.collectienederland.nl/fragments/van-abbe-museum> <http://www.w3.org/ns/hydra/core#search> <http://data.collectienederland.nl/fragments/van-abbe-museum?page=1#triplePattern> .
+<http://data.collectienederland.nl/fragments/van-abbe-museum?page=1> <http://rdfs.org/ns/void#triples> "119433"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://data.collectienederland.nl/fragments/van-abbe-museum?page=1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/hydra/core#Collection> .
+<http://data.collectienederland.nl/fragments/van-abbe-museum?page=1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/hydra/core#PagedCollection> .
+<http://data.collectienederland.nl/fragments/van-abbe-museum?page=1> <http://www.w3.org/ns/hydra/core#firstPage> <http://data.collectienederland.nl/fragments/van-abbe-museum?page=1> .
+<http://data.collectienederland.nl/fragments/van-abbe-museum?page=1> <http://www.w3.org/ns/hydra/core#itemsPerPage> "100"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://data.collectienederland.nl/fragments/van-abbe-museum?page=1> <http://www.w3.org/ns/hydra/core#nextPage> <http://data.collectienederland.nl/fragments/van-abbe-museum?page=2> .
+
+<http://data.collectienederland.nl/fragments/van-abbe-museum?page=1> <http://www.w3.org/ns/hydra/core#totalItems> "119433"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://data.collectienederland.nl/fragments/van-abbe-museum?page=1#subject> <http://www.w3.org/ns/hydra/core#property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> .
+<http://data.collectienederland.nl/fragments/van-abbe-museum?page=1#subject> <http://www.w3.org/ns/hydra/core#variable> "subject" .
+<http://data.collectienederland.nl/fragments/van-abbe-museum?page=1#predicate> <http://www.w3.org/ns/hydra/core#property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> .
+<http://data.collectienederland.nl/fragments/van-abbe-museum?page=1#predicate> <http://www.w3.org/ns/hydra/core#variable> "predicate" .
+<http://data.collectienederland.nl/fragments/van-abbe-museum?page=1#object> <http://www.w3.org/ns/hydra/core#property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> .
+<http://data.collectienederland.nl/fragments/van-abbe-museum?page=1#object> <http://www.w3.org/ns/hydra/core#variable> "object" .
+<http://data.collectienederland.nl/fragments/van-abbe-museum?page=1#triplePattern> <http://www.w3.org/ns/hydra/core#mapping> <http://data.collectienederland.nl/fragments/van-abbe-museum?page=1#subject> .
+<http://data.collectienederland.nl/fragments/van-abbe-museum?page=1#triplePattern> <http://www.w3.org/ns/hydra/core#mapping> <http://data.collectienederland.nl/fragments/van-abbe-museum?page=1#predicate> .
+<http://data.collectienederland.nl/fragments/van-abbe-museum?page=1#triplePattern> <http://www.w3.org/ns/hydra/core#mapping> <http://data.collectienederland.nl/fragments/van-abbe-museum?page=1#object> .
+<http://data.collectienederland.nl/fragments/van-abbe-museum?page=1#triplePattern> <http://www.w3.org/ns/hydra/core#template> "http://data.collectienederland.nl/fragments/van-abbe-museum{?subject,predicate,object}" .
+_:b1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schemas.delving.eu/nave/terms/DelvingResource> .
+_:b1 <http://schemas.delving.eu/nave/terms/allowSourceDownload> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://schemas.delving.eu/nave/terms/creatorYearOfBirth> "1944"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://schemas.delving.eu/nave/terms/allowDeepZoom> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-199.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-036.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://schemas.delving.eu/nave/terms/allowDeepZoom> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-142.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://schemas.delving.eu/nave/terms/public> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://schemas.delving.eu/nave/terms/featured> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://schemas.delving.eu/nave/terms/allowLinkedOpenData> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3209-02.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3209-04.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/van-abbe-museum/3092> <http://www.europeana.eu/schemas/edm/aggregatedCHO> <http://data.collectienederland.nl/resource/document/van-abbe-museum/3092> .
+<http://data.collectienederland.nl/resource/aggregation/van-abbe-museum/3092> <http://www.europeana.eu/schemas/edm/isShownAt> <https://vanabbemuseum.nl/details/collectie/?lookup%5B41%5D%5Bfilter%5D%5B0%5D=id:C9933> .
+<http://data.collectienederland.nl/resource/aggregation/van-abbe-museum/3092> <http://www.europeana.eu/schemas/edm/dataProvider> "Van Abbemuseum"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3209-02.jpg> <http://schemas.delving.eu/nave/terms/thumbMedium> "http://mediabank.vanabbemuseum.nl/website/Artworks/3209-03.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-117.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3209-02.jpg> <http://schemas.delving.eu/nave/terms/thumbSmall> "http://mediabank.vanabbemuseum.nl/website/Artworks/3209-04.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/van-abbe-museum/3207> <http://www.europeana.eu/schemas/edm/aggregatedCHO> <http://data.collectienederland.nl/resource/document/van-abbe-museum/3207> .
+<http://data.collectienederland.nl/resource/aggregation/van-abbe-museum/3207> <http://www.europeana.eu/schemas/edm/isShownAt> <https://vanabbemuseum.nl/details/collectie/?lookup%5B41%5D%5Bfilter%5D%5B0%5D=id:C10510> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3209-02.jpg> <http://schemas.delving.eu/nave/terms/thumbSmall> "http://mediabank.vanabbemuseum.nl/website/Artworks/3209-03.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-28.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://schemas.delving.eu/nave/terms/allowSourceDownload> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://schemas.delving.eu/nave/terms/featured> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3207> <http://purl.org/dc/terms/created> "1970-1972"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://schemas.delving.eu/nave/terms/allowLinkedOpenData> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-212.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3092> <http://purl.org/dc/terms/created> "1981"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-170.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3092> <http://purl.org/dc/elements/1.1/type> "graphite and colour pencil on paper"@en .
+<http://data.collectienederland.nl/resource/aggregation/van-abbe-museum/3209> <http://www.europeana.eu/schemas/edm/isShownBy> <http://mediabank.vanabbemuseum.nl/website/Artworks/3209-02.jpg> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-04.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-192.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3201-01.jpg> <http://schemas.delving.eu/nave/terms/thumbMedium> "http://mediabank.vanabbemuseum.nl/website/Artworks/3201-01.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-099.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-161.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/van-abbe-museum/3201> <http://www.europeana.eu/schemas/edm/aggregatedCHO> <http://data.collectienederland.nl/resource/document/van-abbe-museum/3201> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-48.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://schemas.delving.eu/nave/terms/featured> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://schemas.delving.eu/nave/terms/allowSourceDownload> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://schemas.delving.eu/nave/terms/allowSourceDownload> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/van-abbe-museum/3186> <http://www.europeana.eu/schemas/edm/aggregatedCHO> <http://data.collectienederland.nl/resource/document/van-abbe-museum/3186> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-442.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/van-abbe-museum/3186> <http://www.europeana.eu/schemas/edm/provider> "Rijksdienst voor het Cultureel Erfgoed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/van-abbe-museum/3094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.openarchives.org/ore/terms/Aggregation> .
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europeana.eu/schemas/edm/ProvidedCHO> .
+_:b1 <http://schemas.delving.eu/nave/terms/allowSourceDownload> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/van-abbe-museum/3094> <http://www.europeana.eu/schemas/edm/isShownBy> <http://mediabank.vanabbemuseum.nl/website/Artworks/3094.jpg> .
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3186> <http://purl.org/dc/elements/1.1/rights> "Van Abbemuseum, Eindhoven"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://schemas.delving.eu/nave/terms/public> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/van-abbe-museum/3094> <http://www.europeana.eu/schemas/edm/rights> <http://www.europeana.eu/portal/rights/rr-f.html> .
+<http://data.collectienederland.nl/resource/aggregation/van-abbe-museum/3094> <http://www.europeana.eu/schemas/edm/provider> "Rijksdienst voor het Cultureel Erfgoed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3201> <http://www.europeana.eu/schemas/edm/type> "IMAGE"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/van-abbe-museum/3094> <http://www.europeana.eu/schemas/edm/isShownAt> <https://vanabbemuseum.nl/details/collectie/?lookup%5B41%5D%5Bfilter%5D%5B0%5D=id:C9935> .
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3201> <http://purl.org/dc/terms/created> "2013-2014"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3201> <http://purl.org/dc/elements/1.1/title> "Double Centre. Materiaal uit het onderzoek dat is opgestart na de ontdekking van twee locaties in het Duits-Poolse grensgebied (locatie 1, locatie 2)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3201> <http://purl.org/dc/elements/1.1/identifier> "3201"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3201> <http://purl.org/dc/elements/1.1/creator> "Charles van Otterdijk"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3186> <http://purl.org/dc/terms/extent> "buitenmaat: 12,2 x 25,6 x 0,3 cm"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-47.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3201> <http://purl.org/dc/elements/1.1/rights> "Van Abbemuseum, Eindhoven"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3186> <http://purl.org/dc/elements/1.1/creator> "Mladen Stilinovic"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-29.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3094> <http://www.europeana.eu/schemas/edm/type> "IMAGE"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-500.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://schemas.delving.eu/nave/terms/creatorYearOfDeath> "2016"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schemas.delving.eu/nave/terms/DelvingResource> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-544.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3094> <http://purl.org/dc/elements/1.1/identifier> "3094"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-488.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-57.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-327.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://schemas.delving.eu/nave/terms/allowDeepZoom> "true"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-535.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schemas.delving.eu/nave/terms/DelvingResource> .
+_:b1 <http://schemas.delving.eu/nave/terms/featured> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-443.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-514.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://schemas.delving.eu/nave/terms/creatorYearOfBirth> "1932"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-015.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0 <http://schemas.delving.eu/nave/terms/creatorYearOfDeath> "1991"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-155.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3096> <http://purl.org/dc/elements/1.1/type> "inkt, kleurviltstift op papier"@nl .
+<http://data.collectienederland.nl/resource/aggregation/van-abbe-museum/3188> <http://www.europeana.eu/schemas/edm/object> <http://mediabank.vanabbemuseum.nl/website/Artworks/3188-01.jpg> .
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3096> <http://purl.org/dc/elements/1.1/rights> "Van Abbemuseum, Eindhoven"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/aggregation/van-abbe-museum/3188> <http://www.europeana.eu/schemas/edm/isShownAt> <https://vanabbemuseum.nl/details/collectie/?lookup%5B41%5D%5Bfilter%5D%5B0%5D=id:C10231> .
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3096> <http://www.europeana.eu/schemas/edm/type> "IMAGE"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-03.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-166.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3098> <http://purl.org/dc/elements/1.1/creator> "Johan Lennarts"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3096.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3096.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3188-01.jpg> <http://schemas.delving.eu/nave/terms/thumbSmall> "http://mediabank.vanabbemuseum.nl/website/Artworks/3188-01.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3098> <http://purl.org/dc/elements/1.1/type> "graphite and colour pencil on paper"@en .
+_:b1 <http://schemas.delving.eu/nave/terms/allowSourceDownload> "false"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3098> <http://purl.org/dc/elements/1.1/identifier> "3098"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3188> <http://purl.org/dc/elements/1.1/title> "Janje moje malo"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schemas.delving.eu/nave/terms/DelvingResource> .
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3188> <http://purl.org/dc/elements/1.1/date> "1993"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://mediabank.vanabbemuseum.nl/website/Artworks/3058-001.jpg> <http://schemas.delving.eu/nave/terms/thumbLarge> "http://mediabank.vanabbemuseum.nl/website/Artworks/3058-515.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3188> <http://purl.org/dc/elements/1.1/type> "viltstift, stempels op papier; karton (kaft)"@nl .

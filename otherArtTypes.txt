@@ -1,0 +1,173 @@
+tekening (gem. techniek)
+krijttekening
+tekening (technisch)
+tekening (perspectief)
+tekening gem. techniek
+pentekening
+krijttekening (zwart)
+pastel
+pencil drawings
+viltstifttekening
+pasteltekening
+potloodtekening
+materieschilderij
+
+
+
+textile, wood;;;;
+textiel, hout;;;;
+latex on canvas;;;;
+latex op doek;;;;
+gouache on paper;;;;
+gouache op papier;;;;
+linocut on paper;;;;
+lino op papier;;;;
+etching on paper;;;;
+ets op papier;;;;
+aquatint, etching on paper;;;;
+aquatint, ets op papier;;;;
+felt-tip pen, aquatint, etching on paper;;;;
+viltstift, aquatint, ets op papier;;;;
+copper engraving on paper;;;;
+kopergravure op papier;;;;
+metal, electronic components, plexiglass, transformer;;;;
+metaal, elektrische componenten, perspex, transformator;;;;
+pencil, offset on paper;;;;
+potlood, offset op papier;;;;
+oil on canvas;;;;
+olieverf op doek;;;;
+acrylic on canvas;;;;
+acrylverf op doek;;;;
+offset on paper;;;;
+offset op papier;;;;
+lithograph on paper;;;;
+litho op papier;;;;
+mixed media on paper;;;;
+gemengde techniek op papier;;;;
+ink on paper;;;;
+inkt op papier;;;;
+acrylic paint on wood;;;;
+acrylverf op hout;;;;
+monotype, blind print on paper;;;;
+monotype, blinddruk op papier;;;;
+blind print on paper;;;;
+blinddruk op papier;;;;
+oil on cardboard;;;;
+olieverf op karton;;;;
+pencil, compressed charcoal on paper;;;;
+potlood, Siberisch krijt op papier;;;;
+silkscreen on paper;;;;
+zeefdruk op papier;;;;
+oil, sand on canvas;;;;
+olieverf, zand op doek;;;;
+woodcut on paper;;;;
+houtsnede op papier;;;;
+feathers, leather lace, paper flag, set square, T-square, black-and-white & colour photography, postcard, hygrometer, chair, slide projection;;;;
+veren, leren veter, papieren vlag, tekenhaak, tekendriehoek, prentbriefkaart, zwart-wit en kleurenfoto, vochtigheidsmeter, stoel, diaprojectie;;;;
+colour photograph;;;;
+kleurenfoto;;;;
+language + the materials referred to;;;;
+taal + de materialen waarnaar verwezen wordt;;;;
+collage on paper;;;;
+collage op papier;;;;
+oil on panel;;;;
+olieverf on paneel;;;;
+acrylic paint, linocut on paper;;;;
+acrylverf, lino op papier;;;;
+metal, wood, acryl paint;;;;
+metaal, hout, acrylverf;;;;
+pencil, ball-point pen ink on paper on canvas;;;;
+potlood, balpen inkt op papier op doek;;;;
+silkscreen in mirror silver on laminated glass, aluminum (base);;;;
+zeefdruk in spiegelzilver op gelaagd glas, aluminium (voetstuk);;;;
+oil, sand, paper on wood;;;;
+olieverf, zand, papier op hout;;;;
+olieverf op paneel;;;;
+book;;;;
+boek;;;;
+acrylic paint, recycled wood;;;;
+acrylverf, hergebruikt hout;;;;
+offset on velvet;;;;
+offset op velour;;;;
+lithograph and letterpress on paper;;;;
+litho, hoogdruk op papier;;;;
+water colour on paper;;;;
+aquarel op papier;;;;
+aquatint, lijnets op papier;;;;
+iron, copper, wood, bitumen, gilded wood;;;;
+ijzer, koper, hout, bitumen, verguld hout;;;;
+pigment, polystyrene, cement;;;;
+pigment, polystyreen, cement;;;;
+offset litho on cardboard, turntable;;;;
+offsetlitho op karton, draaiplateau;;;;
+mixed media on panel;;;;
+gemengde techniek op paneel;;;;
+conté pencil, watercolour on paper;;;;
+contépotlood, aquarel op papier;;;;
+acrylic, pencil, ink on canvas;;;;
+acrylverf, potlood, inkt op doek;;;;
+screen print on paper;;;;
+offset op paper;;;;
+painted wood;;;;
+beschilderd hout;;;;
+acrylic on paper;;;;
+acrylverf op papier;;;;
+formica, chipboard, metal, plastic, water;;;;
+formica, spaanplaat, metaal, plastic, water;;;;
+pencil, oil on panel;;;;
+potlood, olieverf op paneel;;;;
+fluorescent light;;;;
+fluorescentielicht;;;;
+silkscreen, ink on paper;;;;
+zeefdruk, inkt op papier;;;;
+screenprint on paper;;;;
+stamp on paper;;;;
+stempel op papier;;;;
+offset, screenprint on paper;;;;
+offset, zeefdruk op papier;;;;
+Indian ink on Japanese paper;;;;
+Oost-Indische inkt op Japans papier;;;;
+ink op papier;;;;
+black-and-white photograph;;;;
+zwart-wit foto;;;;
+sketchbook, chalk, paper on paper;;;;
+schetsboek, krijt, papier op papier;;;;
+paper on canvas;;;;
+papier op doek;;;;
+synthetic paint on photograph on linen, synthetic paint on wood;;;;
+synthetische verf op foto op linnen, synthetische verf op hout;;;;
+synthetic paint on canvas;;;;
+synthetische verf op doek;;;;
+black-and-white photograph, letraset on paper;;;;
+zwart-wit foto, wrijfletters op papier;;;;
+blood, canvas, wood;;;;
+bloed, doek, hout;;;;
+oil, acrylic on canvas;;;;
+olieverf, alcrylverf, doek;;;;
+letterpress on paper;;;;
+boekdruk op papier;;;;
+oil & acrylicpaint on canvas;;;;
+olieverf, acrylverf op doek;;;;
+painted polyurethane;;;;
+beschilderd polyurethaan;;;;
+painted wood, bronze, brass, water;;;;
+beschilderd hout, koper, brons, messing, water;;;;
+letterpress print on paper;;;;
+hoogdruk op papier;;;;
+glazed porcelain;;;;
+geglazuurd porselein;;;;
+pencil on wall;;;;
+potlood op wand;;;;
+pencil, silkscreen, oil on paper on canvas;;;;
+potlood, zeefdruk, olieverf op papier op doek;;;;
+6 gunny sacks, 1 barrel, glass plate, skin, wood, horn;;;;
+6 juten zakken, 1 ton, glasplaat, huid, hout, hoorn;;;;
+silkscreen on polished metal;;;;
+zeefdruk op gepolijst metaal;;;;
+styropor, polyester, painted aluminum foil
+styropor, polyester, beschilderde aluminiumfolie
+oil on paper on linoleum
+olieverf op papier op linoleum
+Inkless intaglio print, handcolored with oil, on paper
+
+

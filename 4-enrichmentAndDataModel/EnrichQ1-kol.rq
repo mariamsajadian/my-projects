@@ -1,0 +1,53 @@
+PREFIX ore: <http://www.openarchives.org/ore/terms/>
+PREFIX edm: <http://www.europeana.eu/schemas/edm/>
+PREFIX schema: <http://schema.org/>
+PREFIX cd: <http://citydata.wu.ac.at/ns#>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+
+CONSTRUCT{
+  ?edm_providedcho
+        rdf:typ schema:VisualArtwork ;
+		schema:artform ?artform ;
+  		schema:creator 	?dc_creator ;
+  		schema:temporal ?created ;
+		schema:dateCreated ?date;
+		schema:description ?discription ;
+  		schema:name ?title ;
+		schema:image ?image;
+  		schema:publisher <https://www.mauritshuis.nl/> ;
+		schema:temporalCoverage ?coverage ;
+  		schema:IsBasedOn ?edm_providedcho .
+  ?image rdf:type schema:ImageObject ;
+		schema:license ?right.
+
+  ?coverage1 rdf:type schema:DefinedTerm ;
+  			schema:startDate ?startDate  ;
+  			schema:endDate ?endDate .
+}
+
+WHERE {
+    ?edm_providedcho
+  		dc:creator ?dc_creator ;
+		dcterms:Type ?artform ;
+  		dcterms:created ?created ;
+  		dc:title ?title ;
+		dc:description ?discription ;
+		dc:identifier ?id ;
+		dcterms:dateCreated ?date ;
+		edm:temporalCoverage ?coverage ;
+		edm:image ?image;
+  		dc:type ?type .
+	?coverage1
+		dcterms:startDate ?startDate;
+		dcterms:endDate ?endDate .
+    ?ora_aggregation
+     	edm:dataProvider ?ora_edm_dataprovider ;
+     	edm:isShownBy ?imagePic ;
+     	edm:object ?imagePic ;
+     	edm:aggregatedCHO ?heritageObject ;
+      	edm:rights ?right .
+	FILTER(LANG(?discription) = "nl")
+}
