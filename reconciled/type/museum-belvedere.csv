@@ -1,8 +1,8 @@
-type,uri
-easel paintings (paintings by form),http://vocab.getty.edu/aat/300177435
-drawings (visual works),http://vocab.getty.edu/aat/300033973
-prints (visual works),http://vocab.getty.edu/aat/300041273
-assemblages (sculpture),http://vocab.getty.edu/aat/300047194
-photographs,http://vocab.getty.edu/aat/300046300
-collages (visual works),http://vocab.getty.edu/aat/300033963
-kunstobject,
+type,aat_label,uri
+schilderij,easel paintings (paintings by form),http://vocab.getty.edu/aat/300177435
+tekening,drawings (visual works),http://vocab.getty.edu/aat/300033973
+grafiek,prints (visual works),http://vocab.getty.edu/aat/300041273
+assemblage,assemblages (sculpture),http://vocab.getty.edu/aat/300047194
+foto,photographs,http://vocab.getty.edu/aat/300046300
+collage,collages (visual works),http://vocab.getty.edu/aat/300033963
+kunstobject,kunstobject,

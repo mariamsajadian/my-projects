@@ -1,36 +1,36 @@
-type,uri
-paintings (visual works),http://vocab.getty.edu/aat/300033618
-schilderij,http://vocab.getty.edu/aat/300033618
-sculpture (visual works),http://vocab.getty.edu/aat/300047090
-sculpture (visual works),http://vocab.getty.edu/aat/300047090
-prints (visual works),http://vocab.getty.edu/aat/300041273
-prints (visual works),http://vocab.getty.edu/aat/300041273
-miniatures (paintings),http://vocab.getty.edu/aat/300033936
-miniatures (paintings),http://vocab.getty.edu/aat/300033936
-letters (correspondence),http://vocab.getty.edu/aat/300026879
-drawings (visual works),http://vocab.getty.edu/aat/300033973
-drawings (visual works),http://vocab.getty.edu/aat/300033973
-tile stoves,http://vocab.getty.edu/aat/300444082
-schilderijenkijker,
-benches (furniture),http://vocab.getty.edu/aat/300038494
-tables (support furniture),http://vocab.getty.edu/aat/300039548
-tables (support furniture),http://vocab.getty.edu/aat/300039548
-chairs (furniture forms),http://vocab.getty.edu/aat/300037772
-chests (case furniture),http://vocab.getty.edu/aat/300038992
-wandconsole,
-chandeliers (hanging lights),http://vocab.getty.edu/aat/300037622
-frames (protective furnishings),http://vocab.getty.edu/aat/300189814
-frames (protective furnishings),http://vocab.getty.edu/aat/300189814
-bags (costume accessories),http://vocab.getty.edu/aat/300198926
-combs (grooming tools),http://vocab.getty.edu/aat/300236397
-video recordings (physical artifacts),http://vocab.getty.edu/aat/300028682
-builder's models,http://vocab.getty.edu/aat/300262881
-scheepsmodel,http://vocab.getty.edu/aat/300262881
-posters,http://vocab.getty.edu/aat/300027221
-posters,http://vocab.getty.edu/aat/300027221
-pastels (visual works),http://vocab.getty.edu/aat/300076922
-dishes (object genre),http://vocab.getty.edu/aat/300404900
-dishes (object genre),http://vocab.getty.edu/aat/300404900
-rugs (textiles),http://vocab.getty.edu/aat/300185749
-photographs,http://vocab.getty.edu/aat/300046300
-collages (visual works),http://vocab.getty.edu/aat/300033963
+type,aat_label,uri
+painting,paintings (visual works),http://vocab.getty.edu/aat/300033618
+schilderij,schilderij,
+sculpture,sculpture (visual works),http://vocab.getty.edu/aat/300047090
+beeldhouwwerk,sculpture (visual works),http://vocab.getty.edu/aat/300047090
+print,prints (visual works),http://vocab.getty.edu/aat/300041273
+prent,prints (visual works),http://vocab.getty.edu/aat/300041273
+miniature,miniatures (paintings),http://vocab.getty.edu/aat/300033936
+miniatuur,miniatures (paintings),http://vocab.getty.edu/aat/300033936
+brief,letters (correspondence),http://vocab.getty.edu/aat/300026879
+drawing,drawings (visual works),http://vocab.getty.edu/aat/300033973
+tekening,drawings (visual works),http://vocab.getty.edu/aat/300033973
+tegelkachel,tile stoves,http://vocab.getty.edu/aat/300444082
+schilderijenkijker,schilderijenkijker,
+bank,benches (furniture),http://vocab.getty.edu/aat/300038494
+table,tables (support furniture),http://vocab.getty.edu/aat/300039548
+tafel,tables (support furniture),http://vocab.getty.edu/aat/300039548
+stoel,chairs (furniture forms),http://vocab.getty.edu/aat/300037772
+kist,chests (case furniture),http://vocab.getty.edu/aat/300038992
+wandconsole,wandconsole,
+kroonluchter,chandeliers (hanging lights),http://vocab.getty.edu/aat/300037622
+frame,frames (protective furnishings),http://vocab.getty.edu/aat/300189814
+lijst,frames (protective furnishings),http://vocab.getty.edu/aat/300189814
+tas,bags (costume accessories),http://vocab.getty.edu/aat/300198926
+kam,combs (grooming tools),http://vocab.getty.edu/aat/300236397
+video,video recordings (physical artifacts),http://vocab.getty.edu/aat/300028682
+ship model,builder's models,http://vocab.getty.edu/aat/300262881
+scheepsmodel,scheepsmodel,
+poster,posters,http://vocab.getty.edu/aat/300027221
+plakkaat,posters,http://vocab.getty.edu/aat/300027221
+pastel,pastels (visual works),http://vocab.getty.edu/aat/300076922
+dish,dishes (object genre),http://vocab.getty.edu/aat/300404900
+schaal,dishes (object genre),http://vocab.getty.edu/aat/300404900
+kleed,rugs (textiles),http://vocab.getty.edu/aat/300185749
+foto,photographs,http://vocab.getty.edu/aat/300046300
+collage,collages (visual works),http://vocab.getty.edu/aat/300033963

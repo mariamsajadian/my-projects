@@ -1,80 +1,80 @@
-type,uri
-easel paintings (paintings by form),http://vocab.getty.edu/aat/300177435
-drawings (visual works),http://vocab.getty.edu/aat/300033973
-decorative arts (discipline),http://vocab.getty.edu/aat/300054168
-meubel,
-photographs,http://vocab.getty.edu/aat/300046300
-collages (visual works),http://vocab.getty.edu/aat/300033963
-prints (visual works),http://vocab.getty.edu/aat/300041273
-gouaches (paintings),http://vocab.getty.edu/aat/300078928
-sculpture (visual works),http://vocab.getty.edu/aat/300047090
-rugs (textiles),http://vocab.getty.edu/aat/300185749
-rugs (textiles),http://vocab.getty.edu/aat/300185749
-ceramics (object genre),http://vocab.getty.edu/aat/300151343
-chairs (furniture forms),http://vocab.getty.edu/aat/300037772
-figurines,http://vocab.getty.edu/aat/300047455
-"busts (general, figures)",http://vocab.getty.edu/aat/300047457
-tsuba,http://vocab.getty.edu/aat/300312096
-candlesticks,http://vocab.getty.edu/aat/300037588
-kerkkandelaar,
-musical instruments,http://vocab.getty.edu/aat/300041620
-tables (support furniture),http://vocab.getty.edu/aat/300039548
-seating furniture,http://vocab.getty.edu/aat/300037769
-marouflé,
-reliefs (sculptures),http://vocab.getty.edu/aat/300047230
-vis,
-brooches,http://vocab.getty.edu/aat/300045995
-sierraad,
-aquarelles (paintings),http://vocab.getty.edu/aat/300404216
-installations (visual works),http://vocab.getty.edu/aat/300047896
-boxes (containers),http://vocab.getty.edu/aat/300045643
-vases,http://vocab.getty.edu/aat/300132254
-maquettes (sculptures),http://vocab.getty.edu/aat/300047837
-platters (carrying dishes),http://vocab.getty.edu/aat/300043053
-upholstered walls,http://vocab.getty.edu/aat/300395626
-documents (object genre),http://vocab.getty.edu/aat/300026030
-lithographs,http://vocab.getty.edu/aat/300041379
-cartoons (humorous images),http://vocab.getty.edu/aat/300123430
-periodicals,http://vocab.getty.edu/aat/300026657
-weeklies (publications),http://vocab.getty.edu/aat/300312030
-oil lamps,http://vocab.getty.edu/aat/300037630
-light boxes,http://vocab.getty.edu/aat/300264487
-icons (script and type signs),http://vocab.getty.edu/aat/300266210
-instruments,http://vocab.getty.edu/aat/300024838
-harpsichords,http://vocab.getty.edu/aat/300041678
-reproduction (copying),http://vocab.getty.edu/aat/300411336
-jewelry,http://vocab.getty.edu/aat/300209286
-watches,http://vocab.getty.edu/aat/300041615
-signs (declatory or advertising artifacts),http://vocab.getty.edu/aat/300123013
-pots (containers),http://vocab.getty.edu/aat/300045697
-mats (furniture coverings),http://vocab.getty.edu/aat/300204928
-Oriental rugs,http://vocab.getty.edu/aat/300185762
-lopers (furniture components),http://vocab.getty.edu/aat/300040891
-case furniture,http://vocab.getty.edu/aat/300038860
-cushions,http://vocab.getty.edu/aat/300236073
-bracelets (jewelry),http://vocab.getty.edu/aat/300045991
-pocket watches,http://vocab.getty.edu/aat/300200088
-dameshorloge,
-garden vases,http://vocab.getty.edu/aat/300411469
-tuintafel,
-garden seats,http://vocab.getty.edu/aat/300172457
-folding screens,http://vocab.getty.edu/aat/300265156
-ethnography,http://vocab.getty.edu/aat/300054319
-graffiguur,
-fauteuils (elbow chairs),http://vocab.getty.edu/aat/300037856
-benches (furniture),http://vocab.getty.edu/aat/300038494
-desks,http://vocab.getty.edu/aat/300039338
-clocks,http://vocab.getty.edu/aat/300041575
-speeldoos,
-woodcuts (prints),http://vocab.getty.edu/aat/300041405
-dishes (object genre),http://vocab.getty.edu/aat/300404900
-pencil drawings,http://vocab.getty.edu/aat/300410334
-chalk drawings,http://vocab.getty.edu/aat/300395514
-overdoors,http://vocab.getty.edu/aat/300002911
-overmantels (interior wall components),http://vocab.getty.edu/aat/300081618
-bottles,http://vocab.getty.edu/aat/300045627
-bloemvaas,
-drinkservies,
-voorouderbeeld,
-lithographs,http://vocab.getty.edu/aat/300041379
-etchings (prints),http://vocab.getty.edu/aat/300041365
+type,aat_label,uri
+schilderij,easel paintings (paintings by form),http://vocab.getty.edu/aat/300177435
+tekening,drawings (visual works),http://vocab.getty.edu/aat/300033973
+kunstnijverheid,decorative arts (discipline),http://vocab.getty.edu/aat/300054168
+meubel,meubel,
+foto,photographs,http://vocab.getty.edu/aat/300046300
+collage,collages (visual works),http://vocab.getty.edu/aat/300033963
+grafiek,prints (visual works),http://vocab.getty.edu/aat/300041273
+gouache,gouaches (paintings),http://vocab.getty.edu/aat/300078928
+sculptuur,sculpture (visual works),http://vocab.getty.edu/aat/300047090
+Deventer tapijt,rugs (textiles),http://vocab.getty.edu/aat/300185749
+tapijt,rugs (textiles),http://vocab.getty.edu/aat/300185749
+keramiek,ceramics (object genre),http://vocab.getty.edu/aat/300151343
+stoel,chairs (furniture forms),http://vocab.getty.edu/aat/300037772
+kleinplastiek,figurines,http://vocab.getty.edu/aat/300047455
+buste,"busts (general, figures)",http://vocab.getty.edu/aat/300047457
+tsuba,tsuba,http://vocab.getty.edu/aat/300312096
+kandelaar,candlesticks,http://vocab.getty.edu/aat/300037588
+kerkkandelaar,kerkkandelaar,
+muziekinstrument,musical instruments,http://vocab.getty.edu/aat/300041620
+tafel,tables (support furniture),http://vocab.getty.edu/aat/300039548
+zitmeubel,seating furniture,http://vocab.getty.edu/aat/300037769
+marouflé,marouflé,
+relief,reliefs (sculptures),http://vocab.getty.edu/aat/300047230
+vis,vis,
+broche,brooches,http://vocab.getty.edu/aat/300045995
+sierraad,sierraad,
+aquarel,aquarelles (paintings),http://vocab.getty.edu/aat/300404216
+installatie,installations (visual works),http://vocab.getty.edu/aat/300047896
+doos,boxes (containers),http://vocab.getty.edu/aat/300045643
+vaas,vases,http://vocab.getty.edu/aat/300132254
+maquette,maquettes (sculptures),http://vocab.getty.edu/aat/300047837
+schotel,platters (carrying dishes),http://vocab.getty.edu/aat/300043053
+wandbespanning,upholstered walls,http://vocab.getty.edu/aat/300395626
+documentair object,documents (object genre),http://vocab.getty.edu/aat/300026030
+litho,lithographs,http://vocab.getty.edu/aat/300041379
+spotprent,cartoons (humorous images),http://vocab.getty.edu/aat/300123430
+tijdschrift,periodicals,http://vocab.getty.edu/aat/300026657
+weekblad,weeklies (publications),http://vocab.getty.edu/aat/300312030
+olielamp,oil lamps,http://vocab.getty.edu/aat/300037630
+lichtbak,light boxes,http://vocab.getty.edu/aat/300264487
+icoon,icons (script and type signs),http://vocab.getty.edu/aat/300266210
+instrument,instruments,http://vocab.getty.edu/aat/300024838
+klavecimbel,harpsichords,http://vocab.getty.edu/aat/300041678
+reproductie,reproduction (copying),http://vocab.getty.edu/aat/300411336
+sieraad,jewelry,http://vocab.getty.edu/aat/300209286
+horloge,watches,http://vocab.getty.edu/aat/300041615
+bord,signs (declatory or advertising artifacts),http://vocab.getty.edu/aat/300123013
+pot,pots (containers),http://vocab.getty.edu/aat/300045697
+kleedje,mats (furniture coverings),http://vocab.getty.edu/aat/300204928
+Oosters tapijt,Oriental rugs,http://vocab.getty.edu/aat/300185762
+loper,lopers (furniture components),http://vocab.getty.edu/aat/300040891
+kast,case furniture,http://vocab.getty.edu/aat/300038860
+kussen,cushions,http://vocab.getty.edu/aat/300236073
+armband,bracelets (jewelry),http://vocab.getty.edu/aat/300045991
+zakhorloge,pocket watches,http://vocab.getty.edu/aat/300200088
+dameshorloge,dameshorloge,
+tuinvaas,garden vases,http://vocab.getty.edu/aat/300411469
+tuintafel,tuintafel,
+tuinbank,garden seats,http://vocab.getty.edu/aat/300172457
+kamerscherm,folding screens,http://vocab.getty.edu/aat/300265156
+ethnografie,ethnography,http://vocab.getty.edu/aat/300054319
+graffiguur,graffiguur,
+fauteuil,fauteuils (elbow chairs),http://vocab.getty.edu/aat/300037856
+bank,benches (furniture),http://vocab.getty.edu/aat/300038494
+bureau,desks,http://vocab.getty.edu/aat/300039338
+klok,clocks,http://vocab.getty.edu/aat/300041575
+speeldoos,speeldoos,
+houtsnede,woodcuts (prints),http://vocab.getty.edu/aat/300041405
+schaal,dishes (object genre),http://vocab.getty.edu/aat/300404900
+potloodtekening,pencil drawings,http://vocab.getty.edu/aat/300410334
+krijttekening,chalk drawings,http://vocab.getty.edu/aat/300395514
+bovendeurstuk,overdoors,http://vocab.getty.edu/aat/300002911
+schoorsteenstuk,overmantels (interior wall components),http://vocab.getty.edu/aat/300081618
+fles,bottles,http://vocab.getty.edu/aat/300045627
+bloemvaas,bloemvaas,
+drinkservies,drinkservies,
+voorouderbeeld,voorouderbeeld,
+steendruk,lithographs,http://vocab.getty.edu/aat/300041379
+ets,etchings (prints),http://vocab.getty.edu/aat/300041365

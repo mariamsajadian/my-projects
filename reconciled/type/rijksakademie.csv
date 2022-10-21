@@ -1,75 +1,75 @@
-type,uri
-etchings (prints),http://vocab.getty.edu/aat/300041365
-lithographs,http://vocab.getty.edu/aat/300041379
-engravings (prints),http://vocab.getty.edu/aat/300041340
-droge naald,
-drawings (visual works),http://vocab.getty.edu/aat/300033973
-lino (kleur),
-sculpture (visual works),http://vocab.getty.edu/aat/300047090
-wandreliëf,
-gipsafgietsel,
-studiemateriaal,
-collages (visual works),http://vocab.getty.edu/aat/300033963
-gravure (zink),
-aquatints (prints),http://vocab.getty.edu/aat/300041366
-gouaches (paintings),http://vocab.getty.edu/aat/300078928
-tokens (exchange media),http://vocab.getty.edu/aat/300037334
-blauwdruk,
-woodcut,
-tekening (gem. techniek),
-aquarelles (paintings),http://vocab.getty.edu/aat/300404216
-posters,http://vocab.getty.edu/aat/300027221
-photo,
-sepia,
-houtsnede (kleur),
-litho (kleur),
-engravings (prints),http://vocab.getty.edu/aat/300041340
-engravings (prints),http://vocab.getty.edu/aat/300041340
-documents (object genre),http://vocab.getty.edu/aat/300026030
-letters (correspondence),http://vocab.getty.edu/aat/300026879
-zeefdruk,
-krijttekening,
-lino,
-offsets (printing effects),http://vocab.getty.edu/aat/300190403
-mezzotints (prints),http://vocab.getty.edu/aat/300041356
-wood engravings (prints),http://vocab.getty.edu/aat/300041402
-grisaille,http://vocab.getty.edu/aat/300053386
-fotografische reproductie,
-lesbord,
-artists' books (books),http://vocab.getty.edu/aat/300123016
-technical drawings,http://vocab.getty.edu/aat/300034789
-drawings (visual works),http://vocab.getty.edu/aat/300033973
-tekening gem. techniek,
-gem. techniek,
-schilderij,
-medallions (ornament areas),http://vocab.getty.edu/aat/300077354
-lettergravure,
-pen and ink drawings,http://vocab.getty.edu/aat/300404676
-chalk drawings,http://vocab.getty.edu/aat/300395514
-pastels (visual works),http://vocab.getty.edu/aat/300076922
-pencil drawings,http://vocab.getty.edu/aat/300410334
-ets (aquaforte),
-houtskool,
-balpoint,
-molds (shaping equipment),http://vocab.getty.edu/aat/300024814
-facsimiles (reproductions),http://vocab.getty.edu/aat/300121391
-engravings (prints),http://vocab.getty.edu/aat/300041340
-viltstifttekening,
-galvano,
-rolzegel,
-printed matter,
-books,http://vocab.getty.edu/aat/300028051
-koperplaat,
-text (layout feature),http://vocab.getty.edu/aat/300250810
-sketchbooks,
-photogravures (prints),http://vocab.getty.edu/aat/300154382
-doors,http://vocab.getty.edu/aat/300002803
-chests (case furniture),http://vocab.getty.edu/aat/300038992
-leather,
-rifles (long guns),http://vocab.getty.edu/aat/300037181
-stok,
-ornamentenbord,
-emaille plaat,
-lithographic stones (equipment),http://vocab.getty.edu/aat/300022760
-ledepop,
-lead glass,http://vocab.getty.edu/aat/300010811
+type,aat_label,uri
+ets,etchings (prints),http://vocab.getty.edu/aat/300041365
+litho,lithographs,http://vocab.getty.edu/aat/300041379
+gravure (koper),engravings (prints),http://vocab.getty.edu/aat/300041340
+droge naald,droge naald,
+tekening,drawings (visual works),http://vocab.getty.edu/aat/300033973
+lino (kleur),lino (kleur),
+sculptuur,sculpture (visual works),http://vocab.getty.edu/aat/300047090
+wandreliëf,wandreliëf,
+gipsafgietsel,gipsafgietsel,
+studiemateriaal,studiemateriaal,
+collage,collages (visual works),http://vocab.getty.edu/aat/300033963
+gravure (zink),gravure (zink),
+aquatint,aquatints (prints),http://vocab.getty.edu/aat/300041366
+gouache,gouaches (paintings),http://vocab.getty.edu/aat/300078928
+penning,tokens (exchange media),http://vocab.getty.edu/aat/300037334
+blauwdruk,blauwdruk,
+woodcut,woodcut,
+tekening (gem. techniek),tekening (gem. techniek),
+aquarel,aquarelles (paintings),http://vocab.getty.edu/aat/300404216
+affiche,posters,http://vocab.getty.edu/aat/300027221
+photo,photo,
+sepia,sepia,
+houtsnede (kleur),houtsnede (kleur),
+litho (kleur),litho (kleur),
+gravure,engravings (prints),http://vocab.getty.edu/aat/300041340
+gravure (kleur),engravings (prints),http://vocab.getty.edu/aat/300041340
+document,documents (object genre),http://vocab.getty.edu/aat/300026030
+brief,letters (correspondence),http://vocab.getty.edu/aat/300026879
+zeefdruk,zeefdruk,
+krijttekening,krijttekening,
+lino,lino,
+offsetdruk,offsets (printing effects),http://vocab.getty.edu/aat/300190403
+mezzotint,mezzotints (prints),http://vocab.getty.edu/aat/300041356
+wood engravings,wood engravings (prints),http://vocab.getty.edu/aat/300041402
+grisaille,grisaille,http://vocab.getty.edu/aat/300053386
+fotografische reproductie,fotografische reproductie,
+lesbord,lesbord,
+kunstenaarsboek,artists' books (books),http://vocab.getty.edu/aat/300123016
+tekening (technisch),technical drawings,http://vocab.getty.edu/aat/300034789
+tekening (perspectief),drawings (visual works),http://vocab.getty.edu/aat/300033973
+tekening gem. techniek,tekening gem. techniek,
+gem. techniek,gem. techniek,
+schilderij,schilderij,
+medaillon,medallions (ornament areas),http://vocab.getty.edu/aat/300077354
+lettergravure,lettergravure,
+pentekening,pen and ink drawings,http://vocab.getty.edu/aat/300404676
+krijttekening (zwart),chalk drawings,http://vocab.getty.edu/aat/300395514
+pastel,pastels (visual works),http://vocab.getty.edu/aat/300076922
+pencil drawings,pencil drawings,http://vocab.getty.edu/aat/300410334
+ets (aquaforte),ets (aquaforte),
+houtskool,houtskool,
+balpoint,balpoint,
+mal,molds (shaping equipment),http://vocab.getty.edu/aat/300024814
+facsimile,facsimiles (reproductions),http://vocab.getty.edu/aat/300121391
+gravure (staal?),engravings (prints),http://vocab.getty.edu/aat/300041340
+viltstifttekening,viltstifttekening,
+galvano,galvano,
+rolzegel,rolzegel,
+printed matter,printed matter,
+boek,books,http://vocab.getty.edu/aat/300028051
+koperplaat,koperplaat,
+tekst,text (layout feature),http://vocab.getty.edu/aat/300250810
+sketchbooks,sketchbooks,
+photogravures,photogravures (prints),http://vocab.getty.edu/aat/300154382
+deur,doors,http://vocab.getty.edu/aat/300002803
+kist,chests (case furniture),http://vocab.getty.edu/aat/300038992
+leather,leather,
+geweer,rifles (long guns),http://vocab.getty.edu/aat/300037181
+stok,stok,
+ornamentenbord,ornamentenbord,
+emaille plaat,emaille plaat,
+lithosteen,lithographic stones (equipment),http://vocab.getty.edu/aat/300022760
+ledepop,ledepop,
+leaded glass,lead glass,http://vocab.getty.edu/aat/300010811

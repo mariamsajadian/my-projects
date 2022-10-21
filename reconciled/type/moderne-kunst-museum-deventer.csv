@@ -1,32 +1,32 @@
-type,uri
-aquarelles (paintings),http://vocab.getty.edu/aat/300404216
-benches (furniture),http://vocab.getty.edu/aat/300038494
-beds (furniture),http://vocab.getty.edu/aat/300038697
-beeld,
-boats,http://vocab.getty.edu/aat/300178749
-collages (visual works),http://vocab.getty.edu/aat/300033963
-etchings (prints),http://vocab.getty.edu/aat/300041365
-photographs,http://vocab.getty.edu/aat/300046300
-glasapplique,
-glass in concrete (visual works),http://vocab.getty.edu/aat/300391169
-gouaches (paintings),http://vocab.getty.edu/aat/300078928
-herdenkingsbord,
-case furniture,http://vocab.getty.edu/aat/300038860
-kitchens,http://vocab.getty.edu/aat/300004514
-rugs (textiles),http://vocab.getty.edu/aat/300185749
-mozaïk,
-objects,http://vocab.getty.edu/aat/300311889
-prints (visual works),http://vocab.getty.edu/aat/300041273
-prints (visual works),http://vocab.getty.edu/aat/300041273
-dishes (object genre),http://vocab.getty.edu/aat/300404900
-easel paintings (paintings by form),http://vocab.getty.edu/aat/300177435
-sculpture (visual works),http://vocab.getty.edu/aat/300047090
-stofrelief,
-tables (support furniture),http://vocab.getty.edu/aat/300039548
-tegelvloer,
-drawings (visual works),http://vocab.getty.edu/aat/300033973
-vases,http://vocab.getty.edu/aat/300132254
-slabs (structural elements),http://vocab.getty.edu/aat/300001208
-wandkleed,
-wandschildering,
-reliefs (sculptures),http://vocab.getty.edu/aat/300047230
+type,aat_label,uri
+aquarel,aquarelles (paintings),http://vocab.getty.edu/aat/300404216
+bank,benches (furniture),http://vocab.getty.edu/aat/300038494
+bed,beds (furniture),http://vocab.getty.edu/aat/300038697
+beeld,beeld,
+boot,boats,http://vocab.getty.edu/aat/300178749
+Collage,collages (visual works),http://vocab.getty.edu/aat/300033963
+ets,etchings (prints),http://vocab.getty.edu/aat/300041365
+foto,photographs,http://vocab.getty.edu/aat/300046300
+glasapplique,glasapplique,
+glas-in-lood,glass in concrete (visual works),http://vocab.getty.edu/aat/300391169
+gouache,gouaches (paintings),http://vocab.getty.edu/aat/300078928
+herdenkingsbord,herdenkingsbord,
+kast,case furniture,http://vocab.getty.edu/aat/300038860
+keuken,kitchens,http://vocab.getty.edu/aat/300004514
+kleed,rugs (textiles),http://vocab.getty.edu/aat/300185749
+mozaïk,mozaïk,
+object,objects,http://vocab.getty.edu/aat/300311889
+prent,prints (visual works),http://vocab.getty.edu/aat/300041273
+prenten,prints (visual works),http://vocab.getty.edu/aat/300041273
+schaal,dishes (object genre),http://vocab.getty.edu/aat/300404900
+schilderij,easel paintings (paintings by form),http://vocab.getty.edu/aat/300177435
+sculptuur,sculpture (visual works),http://vocab.getty.edu/aat/300047090
+stofrelief,stofrelief,
+tafel,tables (support furniture),http://vocab.getty.edu/aat/300039548
+tegelvloer,tegelvloer,
+tekening,drawings (visual works),http://vocab.getty.edu/aat/300033973
+vaas,vases,http://vocab.getty.edu/aat/300132254
+vloerplaat,slabs (structural elements),http://vocab.getty.edu/aat/300001208
+wandkleed,wandkleed,
+wandschildering,wandschildering,
+wandschildering in reliëf,reliefs (sculptures),http://vocab.getty.edu/aat/300047230
