@@ -5,13 +5,11 @@ import traceback
 from rdflib import Graph, BNode
 from rdflib.namespace import Namespace
 
-schema = Namespace("http://www.schema.org/type")
 edm = Namespace("http://www.europeana.eu/schemas/edm/")
 rdf = Namespace("http://www.w3.org/1999/02/22-rdf-syntax-ns#")
 dcterms = Namespace("http://purl.org/dc/terms/")
 aat = Namespace("http://vocab.getty.edu/aat/")
 dc = Namespace("http://purl.org/dc/elements/1.1/")
-
 
 def startProcessing(_path="./converted/"):
     try:
@@ -24,7 +22,6 @@ def startProcessing(_path="./converted/"):
         extract_csv_creators(_entities)
     except Exception as e:
         print(str(e), traceback.format_exc())
-
 
 def extract_artform(_dataStore, _entities, _aat, _dcterms, _rdf, _edm, _resultArtForm='./art-form/'):
 
@@ -66,7 +63,6 @@ def extract_artform(_dataStore, _entities, _aat, _dcterms, _rdf, _edm, _resultAr
         g.serialize(destination=f'{_resultArtForm}{entityName}.ttl', format='turtle', encoding='utf-8')
         print("art form created! successfully")
 
-
 def extract_csv_creators(_entities, _resultArtForm='./art-form/', _resultCreatorsCsv='./creators/'):
 
     shutil.rmtree(_resultCreatorsCsv, ignore_errors=True)
@@ -99,7 +95,7 @@ def extract_csv_creators(_entities, _resultArtForm='./art-form/', _resultCreator
 
         with open(_resultCreatorsCsv + f'creatorWithoutType_{entityName}.csv', 'w', encoding='utf-8',
                   newline='') as fileHanler:
-            writer = csv.writer(fileHanler, delimiter=',', quotechar="\'", quoting=csv.QUOTE_NONE, escapechar=' ')
+            writer = csv.writer(fileHanler, delimiter=',', quotechar="", quoting=csv.QUOTE_NONE, escapechar=' ')
             writer.writerow(["uri", "creators"])
             for row in queryResult:
                 sub = row.a.split("/n")[0]
